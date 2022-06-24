@@ -1,5 +1,9 @@
 # Open Transport
+<<<<<<< HEAD
 aaa
+=======
+bbb
+>>>>>>> 587b3d0052e56536bda6ef0d7cf54f5256cbe8b6
 Application web pour covoiturage. 
 
 ## Getting Started
