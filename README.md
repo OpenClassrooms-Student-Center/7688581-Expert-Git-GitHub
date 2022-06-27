@@ -9,13 +9,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
+```
 - [Node.js](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
 - [Gulp](https://gulpjs.com/)
-
-```
-A définir
-
+- Python
 ```
 
 ### Installation
