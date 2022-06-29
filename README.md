@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Avoir mangé une pizza durant les dernières 24 heures
-
+Avoir mangé un bon gros fromage de chèvre durant les dernières 24 heures
 ```
 
 ### Installation
