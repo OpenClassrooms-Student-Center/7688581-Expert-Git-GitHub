@@ -7,7 +7,8 @@ Application web pour covoiturage.
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-definir soi_meme
+debuter git et github
+
 
 ```
 
