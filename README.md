@@ -8,7 +8,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
+<<<<<<< HEAD
 Il n'y a pas de pré-requis 
+=======
+- installer Git localement
+>>>>>>> dc5666a (#3 ajout de prérequis)
 
 ```
 A définir
