@@ -34,7 +34,7 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+Ici on retrouvera les étapes de déploiement du projet, en fait j'écrie cette ligne seulement pour modifier le README....
 ```
 
 ## Technologies :
