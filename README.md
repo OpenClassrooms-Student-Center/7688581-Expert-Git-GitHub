@@ -1,8 +1,12 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour covoiturage.
 
-## Getting Started
+Autre simulation de conflit
+
+Simulation conflit
+
+## Pour commencer
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
@@ -33,7 +37,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +58,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O. C.
 
 ## License
 
