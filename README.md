@@ -21,7 +21,8 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-Modification qui va engendrer un conflit
+Modification de la partie qui était en conflit avec aucune des solutions locale ou distante qui existaient auparavant
+bla bla bla bla donc aucune ancienne solution gardée
 ```
 
 
