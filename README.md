@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+Ligne qui va être en conflit car différente de la version modifiée en local
 ```
 
 
