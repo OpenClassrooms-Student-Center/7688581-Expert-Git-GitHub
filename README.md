@@ -21,7 +21,8 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+Modification de la partie qui était en conflit avec aucune des solutions locale ou distante qui existaient auparavant
+bla bla bla bla donc aucune ancienne solution gardée
 ```
 
 
@@ -33,7 +34,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
