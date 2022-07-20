@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :Ajout d’un prérequis
 
 
 ```
@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
