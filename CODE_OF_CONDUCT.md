@@ -1,4 +1,5 @@
 # Code de conduite _Contributor Covenant_
+modification du Code de conduite
 
 ## Notre engagement
 
