@@ -15,6 +15,8 @@ Nous nous engageons à agir et interagir de manière à contribuer à une commun
 ouverte, accueillante, diversifiée, inclusive et saine.
 
 ## Nos critères
+Modif 1
+
 
 Exemples de comportements qui contribuent à créer un environnement positif :
 
