@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour la nature. 
 
 ## Getting Started
 
@@ -57,7 +57,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **DRIOUA Imed**
 
 ## License
 
