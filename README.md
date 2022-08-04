@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Aucun pré-requis nécessaire
-
+Savoir coder en Ruby
 ```
 
 ### Installation
