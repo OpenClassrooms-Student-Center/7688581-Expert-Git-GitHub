@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-modifier via l’interface web de GitHub le fichier README.md (avec un texte différent de la modification locale) ;
+modifier via l’interface web de GitHub le fichier README.md (avec un texte différent de la modification locale)
 
 ```
 
