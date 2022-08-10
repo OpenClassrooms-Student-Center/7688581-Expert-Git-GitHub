@@ -14,6 +14,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 A définir
 
 ```
+L'utilisation de ce projet exige que vous ayez au-moins 25 ans
 
 ### Installation
 
