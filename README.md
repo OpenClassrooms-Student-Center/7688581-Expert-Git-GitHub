@@ -14,6 +14,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 A définir
 
 ```
+Nous devons installer les outils necessaire pour la réalisation de ce projet
 
 ### Installation
 
