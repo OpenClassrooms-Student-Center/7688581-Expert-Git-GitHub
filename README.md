@@ -17,7 +17,7 @@ modification
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test oper:
+Voici les étapes à suivre pour avoir un environnement de développement et de test operation:
 
 
 ```
