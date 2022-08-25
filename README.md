@@ -11,7 +11,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+0. Suivre des tutos et/ou des cours sur Git/GitHub
+1. Installer Git
+2. Ouvrir un compte GitHub
+3. Réaliser un "fork"
+4. Créer un "clone" du projet sur son poste de travail
 
 ```
 
