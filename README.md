@@ -1,7 +1,6 @@
 # Open Transport
 
 Application web pour covoiturage. 
-il y'aura un conflit
 
 ## Getting Started
 
