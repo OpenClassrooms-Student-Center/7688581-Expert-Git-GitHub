@@ -11,8 +11,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
-
+un navigateur comme Google Safari pour accéder à GitHub ;
+une installation en local de Git ;
+un éditeur de texte comme Sublime Text ;
+un compte personnel GitHub.
 ```
 
 ### Installation
@@ -54,7 +56,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O. C.**
 
 ## License
 
