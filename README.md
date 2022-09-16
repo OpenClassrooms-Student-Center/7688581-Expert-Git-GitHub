@@ -22,8 +22,8 @@ Un Ide
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
-```
-A définir
+``` test
+SAISI APRES LE GIT ADD
 ```
 
 
