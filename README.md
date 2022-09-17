@@ -33,9 +33,9 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
-Here are the steps to deploy to production :
+Voici les étapes pour déployer en production :
 
 ```
 ```
