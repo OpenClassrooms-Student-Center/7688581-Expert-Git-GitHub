@@ -7,11 +7,8 @@ C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoitu
 
 Open Transport recherche des contributeurs pour tous types de tâches : améliorations, correction de bugs, nouvelles fonctionnalités.
 
-<<<<<<< HEAD
+
 ## Comment contribuer ?
-=======
-## Comment contriburerer ?
->>>>>>> 1f38ae6ff538c83ee180ca193e0761fb794d3da0
 
 
 Pour commencer, nous recommendons de consulter la liste des [issues](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/issues)   
