@@ -13,7 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 * Github
 * Git CLI
-* Editeur de texte (Sublime Text ou autre)
+* Editeur de texte (Sublime Text ou autre...)
 * Navigateur Web
 
 ```
