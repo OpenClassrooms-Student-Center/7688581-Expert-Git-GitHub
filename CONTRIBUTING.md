@@ -19,3 +19,4 @@ Pour commencer, nous recommendons de consulter la liste des [issues](https://git
 
 ## Comment avancer ?
 - Resoudre les conflits et plus
+- Resoudre les conflits et aussi
