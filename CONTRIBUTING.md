@@ -1,5 +1,5 @@
 # CONTRIBUTING
-CONFLIT DU FICHIER 11111111
+CONFLIT DU FICHIER 2222222
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
