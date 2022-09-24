@@ -18,5 +18,4 @@ Pour commencer, nous recommendons de consulter la liste des [issues](https://git
 - Les commentaires doivent contenir le numéro de l'issue.
 
 ## Comment avancer ?
-- Resoudre les conflits et plus
-- Resoudre les conflits et aussi
+- Resoudre les conflits est proritaire
