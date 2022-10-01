@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O.C.
+* O.C. est l'auteur
 
 
 ## License
