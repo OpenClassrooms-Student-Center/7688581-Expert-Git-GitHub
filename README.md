@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O.C. est l'auteur initial remote
+* O.C. est l'auteur initial remote 2
 
 
 ## License
