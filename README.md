@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O.C. est l'auteur de ce projet
+* O.C. est l'auteur initial
 
 
 ## License
