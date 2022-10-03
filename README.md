@@ -59,3 +59,6 @@ O.C
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+## Prérecquis
+La détermination et la bonne humeur
