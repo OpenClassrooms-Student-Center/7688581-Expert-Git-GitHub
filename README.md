@@ -61,4 +61,5 @@ Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) po
 
 ## Prérecquis
 
-La bonne humeur et la détermination
+La bonne humeur et la détermination,
+L'esprit d'équipe et le coeur pur.
