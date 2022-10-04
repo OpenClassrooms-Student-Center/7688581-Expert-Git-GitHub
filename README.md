@@ -54,7 +54,10 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-O.C
+O.C 
+
+Akram Boukhers
+
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
