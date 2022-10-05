@@ -29,7 +29,7 @@ plus tard
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+pourqoi 
 ```
 
 
