@@ -56,7 +56,7 @@ Merci de lire les fichiers :
 
 O.C 
 
-Akram Boukhers (GOAT)
+Akram Boukhers 
 
 ## License
 
