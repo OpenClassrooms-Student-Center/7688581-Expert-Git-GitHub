@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Il faut avoir installé l'outil de versionning GIT.
+Deuxième commit.
 
 ```
 
