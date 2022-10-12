@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Un navigateur web tel que Firefox, Opéra, Safari, Chrome ...
-
+Une machine virtuel comme MAMP
 ```
 
 ### Installation
