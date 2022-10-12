@@ -11,11 +11,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-<<<<<<< HEAD
+
 Un navigateur web tel que Firefox, Opéra, Safari, Chrome ...
-=======
-Ajout d'un prérequis
->>>>>>> 014e7e19a82cc382c978ea81cc374add22dba7d7
+Une machine virtuel comme MAMP
 
 ```
 
