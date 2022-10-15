@@ -35,7 +35,7 @@ A définir : expliquer comment executer les tests
 
 ## Deployment
 
-Voici les étapes à suivre pour déployer en production :
+Je viens de corrigé ce texte en déployement modifier par Samba :
 
 ```
 A définir
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **SAMBA SISSOKO**
 
 ## License
 
