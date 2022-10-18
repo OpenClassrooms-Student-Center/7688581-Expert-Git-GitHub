@@ -5,11 +5,7 @@ Avant toutes choses, merci de vouloir contribuer au projet Open Transport !
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
 ```
 
-<<<<<<< HEAD
-Open Transport recherche des contributeurs pour tous types de tâches : améliorations, correction de bugs, nouvelles fonctionnalités, etc.
-=======
 Open Transport recherche des contributeurs pour tous types de tâches : améliorations, correction de bugs, nouvelles fonctionnalités...
->>>>>>> 6ec073870e4e76d2522293984a05701cfbdf52b4
 
 ## Comment contriburer ?
 
