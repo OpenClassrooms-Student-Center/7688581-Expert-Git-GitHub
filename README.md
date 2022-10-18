@@ -25,7 +25,6 @@ A définir
 ```
 
 
-
 ## Executer les tests
 
 ```
@@ -54,7 +53,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O. C.
 
 ## License
 
