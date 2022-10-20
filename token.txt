@@ -1,0 +1,2 @@
+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
+git remote set-url origin https://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@github.com/pepekalley/7688581-Expert-Git-GitHub.git
