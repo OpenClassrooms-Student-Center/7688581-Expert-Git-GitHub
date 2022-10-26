@@ -26,7 +26,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+voilà j'apprends la commande --amend lol
 ```
 
 
