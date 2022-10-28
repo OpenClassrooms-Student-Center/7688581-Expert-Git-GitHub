@@ -13,6 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 - test conflit 2 car ça ne marche pas
 - en plus c'est moche
 
+
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
@@ -52,7 +53,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O.C.
+* C.O.
 
 ## License
 
