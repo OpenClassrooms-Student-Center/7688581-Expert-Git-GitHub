@@ -1,1 +1,1 @@
-featur
+feature
