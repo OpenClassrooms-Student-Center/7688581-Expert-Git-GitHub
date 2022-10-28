@@ -10,8 +10,14 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
+<<<<<<< HEAD
 - test conflit 2 car ça ne marche pas
 - en plus c'est moche
+=======
+- Installer Chrome
+- Installer Git
+- Avoir une outil de visualisation de code
+>>>>>>> 7a88d16 (#3 Ajout d’un prérequis test 2)
 
 
 ### Installation
