@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Git - Navigateur (Clone et modif sur hub#............................########### Opera, Edge, Firefox, Chrome, ...#)
+Git - Navigateur (Dist Clone et modif sur hub#............................########### Opera, Edge, Firefox, Chrome, ...#)
 ```
 
 ### Installation
