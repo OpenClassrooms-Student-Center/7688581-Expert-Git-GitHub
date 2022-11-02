@@ -39,7 +39,7 @@ Voici les étapes à suivre pour déployer en production :
 A définir
 ```
 
-## Technologies :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
+## Technologies :
 
 * HTML5/CSS3
 * [Boostrap](https://getbootstrap.com/)
