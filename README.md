@@ -52,7 +52,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **O.C.**
+* **O.C.& S.L.**
 
 ## License
 
