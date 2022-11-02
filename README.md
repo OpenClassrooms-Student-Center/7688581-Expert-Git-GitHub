@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Git - Navigateur (Opera, Edge, Firefox, Chrome, ...#2.1.a)
+Git - Navigateur (Opera, Edge, Firefox, Chrome, ...#2.2.a)
 ```
 
 ### Installation
@@ -39,7 +39,7 @@ Voici les étapes à suivre pour déployer en production :
 A définir
 ```
 
-## Technologies :
+## Technologies :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
 
 * HTML5/CSS3
 * [Boostrap](https://getbootstrap.com/)
