@@ -21,8 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-Installer git & planter des petits pois & des fleurs violettes
-```
+Installer git & planter des petits pois & des fleurs violettes et bleues
 
 
 
