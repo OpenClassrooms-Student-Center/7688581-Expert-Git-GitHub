@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-Installer git
+Installer git & planter des petits pois
 ```
 
 
