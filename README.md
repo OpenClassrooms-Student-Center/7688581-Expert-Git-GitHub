@@ -17,7 +17,7 @@ Pas de pré-requis
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement1 et de test opérationnel1 :
+Voici les étapes à suivre pour avoir un environnement de développement1 et de test opérationnel1(modif-enlocal) :
 
 
 ```
