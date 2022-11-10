@@ -11,8 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-- Un éditeur de code (Visual Studio Code, Sublime Text, Atom, etc.)
-- Git
+- Un navigateur web (Chrome, Firefox, Safari, Opera, etc.)
+- Un serveur web (Apache, Nginx, etc.)
 
 ```
 
