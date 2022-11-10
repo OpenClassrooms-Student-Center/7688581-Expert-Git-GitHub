@@ -1,4 +1,5 @@
 # Code de conduite _Contributor Covenant_
+ligne3
 
 ## Notre engagement
 
