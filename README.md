@@ -17,8 +17,9 @@ A définir
 
 ### Installation
 
+<<<<<<< HEAD
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : modification numéro 3
-
+=======
 
 ```
 A définir
