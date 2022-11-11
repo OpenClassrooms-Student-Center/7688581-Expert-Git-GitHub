@@ -1,6 +1,6 @@
 # Open Transport
 
-APPLICATION POUR COVOIT
+COVOITURAGE
 
 ## Getting Started
 
