@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour COVOIT. 
+APPLICATION POUR COVOITURAGE
 
 ## Getting Started
 
