@@ -12,8 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
-
-```
+Installer un IDE pour executer l'ensemble du code
 
 ### Installation
 
