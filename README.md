@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement  :
+Voici les étapes à suivre pour avoir un environnement de développement  :modif dist
 
 
 ```
