@@ -1,5 +1,5 @@
 # Open Transport
-
+Fonctionne uniquement au canada 
 Application web pour covoiturage. 
 
 ## Getting Started
