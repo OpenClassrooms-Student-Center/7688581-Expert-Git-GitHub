@@ -17,7 +17,7 @@ Installez un editor de text
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : modification local
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : modification distance
 
 
 ```
