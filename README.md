@@ -17,7 +17,7 @@ Installer un IDE pour executer l'ensemble du code
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-Instaeller Vscode et lancer l'execution pour lancer l'appli
+Instaeller Vscode charger le projet et faites un build du projet 
 
 ```
 A définir
