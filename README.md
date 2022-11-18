@@ -59,5 +59,5 @@ Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) po
 
 ## C'est l'heure du d-d-d-duel !
 
+En garde !
 non toi en garde !
-
