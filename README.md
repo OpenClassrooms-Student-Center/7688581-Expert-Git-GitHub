@@ -1,3 +1,5 @@
+
+
 # Open Transport
 
 Application web pour covoiturage. 
@@ -33,7 +35,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiment
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -59,3 +61,4 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
