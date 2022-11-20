@@ -1,3 +1,5 @@
+
+
 # Open Transport
 
 Application web pour covoiturage. 
@@ -17,7 +19,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel. Création de conflit :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel. Création de conflit pour TP7:
 
 
 ```
