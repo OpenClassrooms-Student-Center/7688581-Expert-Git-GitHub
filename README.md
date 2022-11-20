@@ -16,8 +16,8 @@ A définir
 ```
 
 ### Installation
-
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel. Création de conflit pour TP7:
+ 
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel. Création de conflit pour TP7h :
 =======
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel j'essaye de créer un conflit ici pour le TP7:
 >>>>>>> 699a559e75e856926e778119a8236395ce13c8a1
