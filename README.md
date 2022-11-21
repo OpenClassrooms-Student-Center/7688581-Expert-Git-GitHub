@@ -13,7 +13,6 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 un navigateur comme Google Chrome pour accéder à GitHub ;
 une installation en local de Git;
-un éditeur de texte comme Sublime Text;
 
 ```
 
