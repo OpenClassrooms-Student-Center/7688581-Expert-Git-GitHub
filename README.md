@@ -35,10 +35,10 @@ A définir : expliquer comment executer les tests
 
 ## Deployment
 
-Voici les étapes à suivre pour déployer en production :
+Here are the steps to fail in production:
 
 ```
-A définir
+A definition
 ```
 
 ## Technologies :
