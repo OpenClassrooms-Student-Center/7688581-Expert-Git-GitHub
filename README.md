@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : blablabla
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : modif de la ligne dans github
 
 
 ```
