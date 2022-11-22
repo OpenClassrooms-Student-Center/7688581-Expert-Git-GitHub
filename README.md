@@ -31,7 +31,7 @@ A définir modifier le 21 11 22
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+A définir : expliquer comment executer les tests apzizpodsuzxb
 ```
 
 
