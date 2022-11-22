@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 installer git 
 avoir un compte github
 ```
-A définir
+Installer GitHub seulement
 
 ```
 
