@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. blablabla
+Application web pour covoiturage. modif dans git
 
 ## Getting Started
 
