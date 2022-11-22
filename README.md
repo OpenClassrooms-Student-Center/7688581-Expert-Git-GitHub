@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : like you have seen we can do everything you want so keep quiet
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : like you have seen 
 
 
 ```
