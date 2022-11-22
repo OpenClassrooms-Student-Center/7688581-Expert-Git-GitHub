@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationn et voici ma modification :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationn et voici ma modification que j'ai rajouté :
 
 
 ```
