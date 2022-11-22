@@ -17,7 +17,9 @@ A définir modifier le 21 11 22 en local
 
 ### Installation
 
+nouveau message pour resoudre le conflit
 Voici les étapes à suivre pour avoir un environnement de développement modifier le 22 11 22 après la prof
+Voici les étapes à suivre pour avoir un environnement de développement modifier le 22 11 22 a 14h13
 
 
 ```
