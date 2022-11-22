@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : Fin du denier TP7
 
 
 ```
