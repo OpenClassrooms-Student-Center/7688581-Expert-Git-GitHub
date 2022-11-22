@@ -17,7 +17,7 @@ A définir modifier le 21 11 22 en local
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour avoir un environnement de développement modifier le 22 11 22
 
 
 ```
@@ -38,7 +38,7 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+A définir modifier le 22 11 22
 ```
 
 ## Technologies :
