@@ -1,7 +1,5 @@
 # Open Transport
 
-Test de conflit
->>>>>>> 86a0cc113af567b0ce95e1ad0be7d2c549eea69e
 Application web pour covoiturage. 
 
 ## Getting Started
