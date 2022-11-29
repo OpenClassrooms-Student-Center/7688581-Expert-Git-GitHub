@@ -1,4 +1,4 @@
-# Open Transportation1234
+# Open Transportation
 
 Web application for carpooling.
 
