@@ -1,61 +1,33 @@
-# Open Transportation
+Open Transport
+Application web pour covoiturage.
 
-Web application for carpooling.
+Getting Started
+Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
-## Getting Started
+Pré-requis
+Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
-These instructions allow you to run a copy of the project locally on your workstation for development and testing. Refer to the "Deployment1" section for the steps to follow to deploy the project in production.
+A définir
 
-### Prerequisites
-emmanuelle
-To run the Open Transport project locally, you must first install:
+Installation
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
-```
-To define
+A définir
+Executer les tests
+A définir : expliquer comment executer les tests
+Deployment
+Voici les étapes à suivre pour déployer en production :
 
-```
+A définir
+Technologies :
+HTML5/CSS3
+Boostrap
+Contribution
+Merci de lire les fichiers :
 
-### Facility
-
-Here are the steps to follow to have a working development and test environment:
-
-
-```
-To define
-```
-
-
-
-## Run the tests
-
-```
-To be defined: explain how to run the tests
-```
-
-
-## Deployment
-
-Here are the steps to deploy to production:
-
-```
-To define
-```
-
-## Technology:
-
-* HTML5/CSS3
-*[Boosttrap](https://getbootstrap.com/)
-
-## Contribution
-
-Please read the files:
-* [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-
-## Authors
-
-* **Unspecified**
-
-## License
-
-This project is licensed under the GNU GPL V3 license - see the [LICENSE](LICENSE) file for details
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+Auteurs
+Non spécifié
+License
+Ce projet est sous la licence GNU GPL V3 - voir le fichier LICENSE pour plus de détails
