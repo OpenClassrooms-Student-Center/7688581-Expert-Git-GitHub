@@ -8,7 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Pour executer en local le projet Open Transport, vous devez au préalable installer : Git, avoir un éditeur de texte pour apporter les modification. Vou devez également aveoir un compte Github, ce qui doit déjà être le cas biensûr.
 
 ```
 A définir
@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +54,9 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+```
+O. C.
+```
 
 ## License
 
