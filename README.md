@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Modification local pour gernerer un potentiel conflit
+Modif sur le repo distant pour generer un potentiel conflit
 
 ```
 
