@@ -24,7 +24,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 A définir
 ```
 
-## Executer les tests
+## Executer les tests!
 
 ```
 A définir : expliquer comment executer les tests
