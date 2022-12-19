@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **An Openclassrooms Student :)**
+* **O.C.**
 
 ## License
 
