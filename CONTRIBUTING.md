@@ -1,6 +1,6 @@
 # CONTRIBUTING
 
-Modification
+Modification local
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
