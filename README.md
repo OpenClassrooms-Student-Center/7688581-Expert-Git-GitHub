@@ -2,6 +2,7 @@
 
 Application web pour covoiturage. 
 Merci 
+Modification via web
 ## Getting Started
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
