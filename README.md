@@ -13,7 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 Modifications en local.
 Changement de la deuxième ligne en local.
-Changement de la ligne sur le remote.
+Changement de la troisième ligne sur le remote.
 ```
 
 ### Installation
