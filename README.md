@@ -30,7 +30,7 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+A définir : expliquer comment executer les test
 ```
 
 
