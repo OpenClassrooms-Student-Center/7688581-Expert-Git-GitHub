@@ -55,6 +55,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 * C'est moi
+* chubaka
 
 ## License
 
