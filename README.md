@@ -33,12 +33,11 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
 ```
 
 ## Technologies :
@@ -54,7 +53,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* O. C.
 
 ## License
 
