@@ -5,7 +5,7 @@ autre modif
 ## Getting Started
 mod la ligne 6
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
-non je suis a la ligne 8
+nonnnn je suis a la ligne 8
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
