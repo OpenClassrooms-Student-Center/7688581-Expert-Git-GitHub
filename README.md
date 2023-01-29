@@ -3,7 +3,7 @@
 Application web pour covoiturage. 
 
 ## Getting Started
-
+salut
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
 ### Pré-requis
@@ -11,7 +11,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+
+voila
+
+j'ai modifié la ligne 14
+
 
 ```
 
@@ -33,7 +37,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +58,8 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **BRUMMEL MAYANO**
+je suis là
 
 ## License
 
