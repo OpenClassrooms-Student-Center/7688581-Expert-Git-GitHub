@@ -10,6 +10,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
+Git sur son ordinateur
+Un éditeur de code comme visual studio code
+
 ```
 A définir
 
