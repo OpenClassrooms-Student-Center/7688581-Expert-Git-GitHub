@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 Git sur son ordinateur
 Un éditeur de code comme visual studio code
+Un éditeur de text comme Sublime Text
 
 ```
 A définir
