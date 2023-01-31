@@ -1,5 +1,5 @@
 # Open Transport
-
+Fonctionne uniquement au canada 
 Application web pour covoiturage. 
 
 ## Getting Started
@@ -12,13 +12,12 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
-
-```
+Installer un IDE pour executer l'ensemble du code
 
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-
+Instaeller Vscode charger le projet et faites un build du projet 
 
 ```
 A définir
