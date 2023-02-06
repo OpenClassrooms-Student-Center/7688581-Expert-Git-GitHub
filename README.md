@@ -8,10 +8,13 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer plusieur technologies:
+
+Pour executer en local le projet Open Transport, vous devez au préalable :
+
 
 ```
-A définir
+Un navigateur web.
+Un serveur web comme XAMPP.
 
 ```
 
