@@ -1,6 +1,6 @@
 # Open Transport
 
-Application. 
+Appli. 
 
 ## Getting Started
 
