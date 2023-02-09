@@ -1,4 +1,5 @@
 <!-- Hello this a firest pull requests -->
+c'est un bordel de merde dans ce group odoo
 # Open Transport
 
 Application web pour covoiturage. 
