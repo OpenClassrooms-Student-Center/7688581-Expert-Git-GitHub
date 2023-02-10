@@ -13,7 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 une base de données
 un serveur web
-
+java
 ```
 
 ### Installation
