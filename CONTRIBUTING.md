@@ -18,5 +18,3 @@ Pour commencer, nous recommendons de consulter la liste des [issues](https://git
 - Les commentaires doivent contenir le numéro de l'issue.
 
 
-
-TESTTTTTTT
