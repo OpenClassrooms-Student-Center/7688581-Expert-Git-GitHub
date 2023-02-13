@@ -1,3 +1,5 @@
+Salut !
+
 # CONTRIBUTING
 
 ```
