@@ -1,6 +1,6 @@
 # Open Transport VOICI MES CHANGEMENTS SUR LE README DU PROJET
 
-Application web pour covoiturage.
+Application web pour covoiturage. UNE MODIFICATION POUR CREER UN CONFLIT
 
 ## Getting Started
 
