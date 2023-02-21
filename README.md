@@ -18,19 +18,15 @@ Pas de pré-requis.
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
-
 ```
 A définir
-
-
-
+```
 
 ## Executer les tests
 
 ```
 A définir : expliquer comment executer les tests
 ```
-
 
 ## Déploiement
 
