@@ -41,6 +41,8 @@ Voici les étapes à suivre pour déployer en production :
 A définir
 ```
 
+## readme en englais
+
 ## Technologies :
 
 * HTML5/CSS3
