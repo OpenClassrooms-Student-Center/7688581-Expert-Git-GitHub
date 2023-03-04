@@ -21,7 +21,8 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+- Etape 1 : ...  
+- Etape 2 : ...
 ```
 
 
@@ -54,7 +55,8 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* ** O.C. J **
+* ** J.C. **
+
 
 ## License
 
