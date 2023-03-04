@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Il y a les prerequis suivants à respecter: bla bla bla ....
 
 ```
-A définir
+A définir et à modifier pour générer  un conflit
 
 ```
 
