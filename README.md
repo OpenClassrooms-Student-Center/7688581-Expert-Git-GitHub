@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage.
+Application web pour covoiturage. 
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer : TEST CONFLIT
+Pour executer en local le projet Open Transport, vous devez au préalable installer : blablablablabla ligne sur github
 
 ```
 A définir
