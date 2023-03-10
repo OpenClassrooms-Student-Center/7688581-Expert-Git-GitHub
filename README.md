@@ -1,10 +1,6 @@
 # Open Transport
 
-<<<<<<< HEAD
-Application web pour covoiturage. MODIF
-=======
-Application web pour covoiturage. MODIF différente
->>>>>>> 30fcf9dc079921ed7f284305582500c845aca7e5
+Application web pour covoiturage. MODIF TEST
 
 ## Getting Started
 
