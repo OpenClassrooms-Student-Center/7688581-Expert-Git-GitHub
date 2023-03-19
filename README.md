@@ -58,7 +58,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **O.C**
+* **PS3**
 
 ## License
 
