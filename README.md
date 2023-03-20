@@ -1,61 +1,62 @@
-# Open Transport
+# Open transport
 
-Application web pour covoiturage. 
+Web application for carpooling.
 
-## Getting Started
+## Begin
 
-Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
+These instructions allow you to run a copy of the project locally on your workstation for development and testing. Refer to the "Deployment" section for the steps to follow to successfully complete the project in production.
 
-### Pré-requis
+### Prerequisites
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
-
-```
-A définir
+To run the Open Transport project locally, you must first install:
 
 ```
+A definition
 
-### Installation
+```
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+###Facility
+
+Here are the steps you need to follow to have a working development and test environment:
 
 
 ```
-A définir
-```
-
-
-
-## Executer les tests
-
-```
-A définir : expliquer comment executer les tests
+A definition
 ```
 
 
-## Déploiement
 
-Voici les étapes à suivre pour déployer en production :
+## Run the tests
 
 ```
-A définir
+To be defined: explain how to run the tests
+```
+
+
+## Deployment
+
+Here are the steps to fail in production:
+
+```
+A definition
 ```
 
 ## Technologies :
 
 * HTML5/CSS3
-* [Boostrap](https://getbootstrap.com/)
+*[Boosttrap](https://getbootstrap.com/)
 
 ## Contribution
 
-Merci de lire les fichiers :
+Please read the files:
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
+* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 
-## Auteurs
+## Authors
 
-* **Non spécifié**
+* **Unspecified**
 
-## License
+## Licence
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+This project is licensed under the GNU GPL V3 license - see the [LICENSE](LICENSE) file for details
+
