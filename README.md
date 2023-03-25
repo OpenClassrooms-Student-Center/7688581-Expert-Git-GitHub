@@ -1,6 +1,7 @@
 # Open Transport
 
 Application web pour covoiturage. 
+Modification dépôt local.
 
 ## Getting Started
 
