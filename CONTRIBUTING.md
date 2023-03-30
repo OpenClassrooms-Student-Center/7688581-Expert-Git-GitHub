@@ -1,8 +1,10 @@
 # CONTRIBUTING
 
 ```
+
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !
 C'est grâce à ce genre d'investissements que nous pourrons favoriser un covoiturage solidaire.
+
 ```
 
 Open Transport recherche des contributeurs pour tous types de tâches : améliorations, corrections de bugs, nouvelles fonctionnalités.
