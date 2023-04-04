@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* ### Paul Nicolas
+* ### Paul toto
 
 ## License
 
