@@ -44,7 +44,7 @@ A définir
 ## Technologies :
 
 * HTML5/CSS3
-* [JavaScript](https://getbootstrap.com/)
+* [Sass](https://getbootstrap.com/)
 
 ## Contribution
 
