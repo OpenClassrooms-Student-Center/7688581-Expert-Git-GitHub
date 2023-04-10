@@ -13,6 +13,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 A définir
 
+Voici les pré-requis pour gérer un bon conflit.
+
 ```
 
 ### Installation
@@ -54,7 +56,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O. C.
+** O. C.**
 
 ## License
 
