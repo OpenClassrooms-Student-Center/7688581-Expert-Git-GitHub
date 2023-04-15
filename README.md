@@ -37,9 +37,15 @@ A définir : expliquer comment executer les tests
 
 Voici les étapes à suivre pour déployer en production :
 
-```
-A définir
-```
+- Préparez votre code HTML et CSS.
+- Choisissez un service d'hébergement web, tel que GitHub Pages, Netlify ou Heroku.
+- Créez un dépôt sur GitHub et téléchargez votre code.
+- Activez GitHub Pages dans les paramètres du dépôt.
+- Attendez que GitHub Pages construise et déploie votre site web.
+- Visitez l'URL fournie par GitHub Pages pour voir votre site web déployé.
+ 
+En suivant ces étapes, vous pouvez facilement déployer votre site web HTML et CSS et le partager avec le monde.
+
 
 ## Technologies :
 
