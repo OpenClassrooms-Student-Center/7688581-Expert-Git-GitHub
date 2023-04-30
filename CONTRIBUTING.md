@@ -1,4 +1,4 @@
-# CONTRIBUTING version anglais pour test
+# Non en frnaçias
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
