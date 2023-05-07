@@ -1,5 +1,7 @@
 # Open Transport
 
+Bonjour moi je suis Franck ZEREZI amoureux de la programmation et du la science des données
+
 Application web pour covoiturage. 
 
 ## Getting Started
