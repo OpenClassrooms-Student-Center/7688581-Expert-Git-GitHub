@@ -29,9 +29,9 @@ A définir
 A définir : expliquer comment executer les tests
 ```
 
-## Deployment
+## Deploiment
 
-Voici les étapes à suivre pour déployer en productionggg :
+Voici les étapes à suivre pour déployer en production :
 
 ```
 A définir
