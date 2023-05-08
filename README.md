@@ -29,7 +29,7 @@ A définir
 A définir : expliquer comment executer les tests
 ```
 
-## Deploiment
+## Deploiment en fr
 
 Voici les étapes à suivre pour déployer en production :
 
