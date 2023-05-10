@@ -1,3 +1,5 @@
+faute corrigée 
+
 # CONTRIBUTING
 
 ```
