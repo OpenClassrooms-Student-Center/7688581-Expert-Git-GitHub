@@ -20,7 +20,9 @@ A définir
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-
+* git et git bash si vous utilisez Windows
+* un éditeur de code
+* un clone du fork du projet originel
 
 ```
 A définir
