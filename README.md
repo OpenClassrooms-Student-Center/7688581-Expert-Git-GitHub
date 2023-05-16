@@ -62,3 +62,5 @@ O.C.
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+test git amend
