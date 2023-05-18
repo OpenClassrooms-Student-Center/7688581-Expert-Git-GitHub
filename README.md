@@ -30,6 +30,7 @@ A définir : Telechargement à faire
 
 ```
 A définir : expliquer comment executer les tests
+les tests s'execute en local
 ```
 
 
