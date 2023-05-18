@@ -15,13 +15,13 @@ Pré-requis : A définir
 
 ```
 
-### Installation1
+### Installation2
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
 ```
-Installation : A définir
+A définir
 ```
 
 
