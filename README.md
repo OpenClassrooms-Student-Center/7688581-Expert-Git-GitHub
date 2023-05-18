@@ -30,6 +30,7 @@ A définir : Telechargement à faire
 
 ```
 A définir : expliquer comment executer les tests
+Les tests s'execute en mode distant(GitHub)
 ```
 
 
