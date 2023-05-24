@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 *Maitriser l'anglais
-*Gérer un projet GitHub33
+*Gérer un projet GitHub
 
 ```
 
