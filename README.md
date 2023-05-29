@@ -55,9 +55,12 @@ Merci de lire les fichiers :
 ## Auteurs
 
 * **O. C.**
+* Mais pas que
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
+
 Projet A modifié en local
+tout est bon!
