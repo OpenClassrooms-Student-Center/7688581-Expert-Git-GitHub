@@ -13,6 +13,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 A définir
 
+add
+fault
+
 ```
 
 ### Installation
@@ -33,7 +36,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,8 +57,10 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O.C.
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+test git amend
