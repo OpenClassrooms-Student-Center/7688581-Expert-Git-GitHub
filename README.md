@@ -15,6 +15,8 @@ Prérequis 1
 Prérequis 3
 Prérequis 2
 Prérequis 4
+Prérequis 2
+Prérequis 3
 ```
 
 ### Installation
