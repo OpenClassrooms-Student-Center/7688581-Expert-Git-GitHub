@@ -1,4 +1,4 @@
-# YTFERZ Open Transport
+# Open Transport
 
 Application web pour covoiturage . 
 
@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Et agyt"r"tr voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
 ```
