@@ -54,7 +54,8 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* LEMOKEM ZEBAZE Georges
+* Gael Fameni
 
 ## License
 
