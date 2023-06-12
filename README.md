@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Et voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Et agyt"r"tr voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
 ```
