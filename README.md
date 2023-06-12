@@ -54,8 +54,8 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-*  Gael Michel Fameni
 *  Georges LEMOKEM ZEBAZE
+*  Gael Michel Fameni
 
 ## License
 
