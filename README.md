@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 
-* Martin Hardy (modification en ligne) : Voici les prérequis...
+* Voici les prérequis... cette modification a été faite en ligne
 
 
 
