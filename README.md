@@ -16,9 +16,7 @@ aucun prérequis pour ce projet
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
-```
-A définir
-```
+lancer le fichier d'instalation depuis l'explorateur de fichiers
 
 
 
