@@ -7,7 +7,6 @@ C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoitu
 
 Open Transport recherche des contributeurs pour tous types de tâches : améliorations, correction de bugs, nouvelles fonctionnalités.
 
-## Comment contribuer (Martin) ?
 ## Comment collaborer ?
 
 
