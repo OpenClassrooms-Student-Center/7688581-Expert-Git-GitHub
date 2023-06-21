@@ -9,6 +9,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 il n'y a pas de prérequis.
+aucun prérequis pour ce projet
 
 ### Installation
 
