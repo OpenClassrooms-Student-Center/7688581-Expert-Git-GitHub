@@ -12,7 +12,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 git&github
-editeur de texte comme vim
+editeur de texte comme vim ou sublime
+internet
 
 ```
 
