@@ -8,7 +8,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
+<<<<<<< HEAD
 Pour executer en local le projet Open Transport, aucun pré-requis n'est nécessaire.
+=======
+Pour executer en local le projet Open Transport, vous devez au préalable installer : VSC
+>>>>>>> 290aeb516ac98e7df2c278dc318bb1c61e233820
 
 ```
 A définir
