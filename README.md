@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Un Navigateur web (par exemple firefox, chrome, etc.)
+Un App web 
 ```
 
 ### Installation
