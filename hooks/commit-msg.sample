@@ -1,0 +1,15 @@
+
+
+LINE_READ=0
+REGEX="^(#)([0-9]+)"
+while read line;
+do
+     if [[ "$LINE_READ" == "0" ]]; then
+             if ! [[ $line =~ $REGEX ]]; then
+                      echo -e "Votre message de commit ne commence pas par le numéro de l'issue précédée du caractère #"
+                      exit 1
+             fi
+             LINE_READ=$(($LINE_READ + 1))
+    fi
+done < $1
+1
