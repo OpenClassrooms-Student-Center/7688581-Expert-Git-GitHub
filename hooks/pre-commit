@@ -1,5 +1,4 @@
-
-
+#!/usr/bin/env sh
 LINE_READ=0
 REGEX="^(#)([0-9]+)"
 while read line;
