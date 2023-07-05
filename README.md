@@ -11,7 +11,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+<<<<<<< HEAD
+aucun prérequis n'est nécessaire
+=======
+connaissances de boostrap
+>>>>>>> 0b033ba4e48e37b61fafb51a25a18c39503f9d48
 
 ```
 
@@ -33,7 +37,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +58,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
