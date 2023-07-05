@@ -11,12 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-<<<<<<< HEAD
-aucun prérequis n'est nécessaire
-=======
 connaissances de boostrap
->>>>>>> 0b033ba4e48e37b61fafb51a25a18c39503f9d48
-
+HTML
 ```
 
 ### Installation
