@@ -14,7 +14,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Version minimale de PHP (si votre projet utilise un backend PHP)
 Système de gestion de base de données (par exemple, MySQL, PostgreSQL)
 Framework ou bibliothèque spécifique 
-Autres dépendances ou outils nécessaires à l'exécution de votre application
+Autres dépendances ou outils nécessaires à l'exécution de votre application.
 
 Aucun prérequis supplémentaire n'est nécessaire.
 
