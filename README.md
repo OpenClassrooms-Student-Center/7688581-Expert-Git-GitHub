@@ -11,8 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Je fais comme je veux
-Je vais créer un conflit
+Mozilla Firefox
+Git
 ```
 ### Installation
 
