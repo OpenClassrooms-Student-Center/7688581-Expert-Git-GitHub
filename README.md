@@ -11,7 +11,12 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Version minimale de PHP (si votre projet utilise un backend PHP)
+Système de gestion de base de données (par exemple, MySQL, PostgreSQL)
+Framework ou bibliothèque spécifique 
+Autres dépendances ou outils nécessaires à l'exécution de votre application.
+
+Aucun prérequis supplémentaire n'est nécessaire.
 
 ```
 
@@ -25,7 +30,6 @@ A définir
 ```
 
 
-
 ## Executer les tests
 
 ```
@@ -33,7 +37,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +58,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
