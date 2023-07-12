@@ -53,7 +53,8 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+Le fichier README.md ne spécifie pas l'auteur du projet.
+Il faut corriger le texte "Non spécifié" de la section "Auteurs" par les initiales de l'auteur : O. C.
 
 ## License
 
