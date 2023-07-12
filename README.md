@@ -37,9 +37,8 @@ A définir : expliquer comment executer les tests
 
 Voici les étapes à suivre pour déployer en production :
 
-```
-A définir
-```
+Le fichier REAME.md contient une sous section nommée "Deployement".
+Le langue pour le fichier est le français, il faut donc corriger le texte en "Déploiement".
 
 ## Technologies :
 
