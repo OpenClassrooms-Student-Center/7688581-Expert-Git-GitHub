@@ -14,7 +14,7 @@ ou l'identité et l'orientation sexuelle.
 Nous nous engageons à agir et interagir de manière à contribuer à une communauté 
 ouverte, accueillante, diversifiée, inclusive et saine.
 
-## Nos critères de ttttt
+## Nos critères
 
 Exemples de comportements qui contribuent à créer un environnement positif :
 
