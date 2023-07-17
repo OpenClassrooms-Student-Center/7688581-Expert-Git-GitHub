@@ -2,7 +2,7 @@
 
 Application web pour covoiturage. 
 
-## Getting Started
+## Pour débuter
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+Aucun pré-requis
 ```
 
 
@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +54,11 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+<<<<<<< HEAD
+* **O.C.**
+=======
+* O.C.
+>>>>>>> 9ce739fa4a3998a2b0089a253242c17466c69763
 
 ## License
 
