@@ -54,7 +54,11 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
+<<<<<<< HEAD
 * **O.C.**
+=======
+* O.C.
+>>>>>>> 9ce739fa4a3998a2b0089a253242c17466c69763
 
 ## License
 
