@@ -14,6 +14,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 *avoir un navigateur
 *Un compte gitHub
 *Un logiciel de texte
+Un serveur web comme XAMPP
 
 ```
 
