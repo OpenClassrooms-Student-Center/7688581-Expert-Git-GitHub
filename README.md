@@ -12,7 +12,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 - Lire les fichiers :
     - CODE_OF_CONDUCT.md
     - CONTRIBUTING.md
-    - README.md
+    
 
 ### Installation
 
