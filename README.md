@@ -8,11 +8,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-- Connaitre Git et GitHub
-- Lire les fichiers :
-    - CODE_OF_CONDUCT.md
-    - CONTRIBUTING.md
-    - README.md 
+- Un navigateur web
+- Un serveur XAMP
 
 ### Installation
 
