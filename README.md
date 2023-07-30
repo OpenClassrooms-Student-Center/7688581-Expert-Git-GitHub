@@ -11,7 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
- git et pouvoir modifier un projet grace a git hut et comprendre les manip git pull et git push
+Le fichier README.md doit être complété par la liste des prérequis nécessaires à l'installation du projet.
+Si aucun prérequis n'est nécessaire, le texte doit être adapté pour indiquer qu'il n'y a pas de prérequis.
 
 ```
 
