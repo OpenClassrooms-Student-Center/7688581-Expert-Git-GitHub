@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+GIT ET GITHUB IL ME SEMBLE
 
 ```
 
@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+apt-get istall git / quivre les instruction github pour git hub
 ```
 
 
@@ -29,7 +29,7 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+ term ==> git ==> status il me semble
 ```
 
 
@@ -38,7 +38,7 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+git init ==> git add ==> git commit ==> git push 
 ```
 
 ## Technologies :
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* O.C
 
 ## License
 
