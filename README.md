@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 microsoft.NET core
+windows 7 or higher
 
 ```
 
