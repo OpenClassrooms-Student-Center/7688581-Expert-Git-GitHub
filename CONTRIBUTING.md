@@ -1,4 +1,4 @@
-# CONTRIBUTING
+riturer ?# CONTRIBUTING
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
@@ -8,7 +8,11 @@ C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoitu
 Open Transport recherche des contributeurs pour tous types de tâches : améliorations, correction de bugs, nouvelles fonctionnalités.
 
 ## Comment contriburer ?
+<<<<<<< HEAD
 Comment aider à, avoir part à , collaborer à, concourir à , coopérer à, favoriser, articiper à, permettre, prendre part à, tendre à,
+=======
+comment contriturer ?
+>>>>>>> 71d84e58646bc39e7810d5f07a0c69ff4f963a05
 
 Pour commencer, nous recommendons de consulter la liste des [issues](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/issues)   
 
