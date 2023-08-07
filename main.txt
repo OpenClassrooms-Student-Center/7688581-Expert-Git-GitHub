@@ -1,4 +1,8 @@
 tout va bien
+<<<<<<< HEAD
 ça va mal
 rien ne va
 ça va mal
+=======
+ça va encore bien
+>>>>>>> parent of 8cd05fb (Origine du mal)
