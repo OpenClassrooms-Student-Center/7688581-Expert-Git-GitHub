@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
-Lancez la commande git pull
+Un serveur web
 
 ```
 
