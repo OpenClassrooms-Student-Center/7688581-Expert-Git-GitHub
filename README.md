@@ -12,8 +12,8 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-- Etape 1 : ...  
-- Etape 2 : ...
+- Etape 1 : Bonjour  
+- Etape 2 : Au revoir
 ```
 
 
