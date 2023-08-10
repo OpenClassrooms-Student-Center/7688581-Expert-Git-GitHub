@@ -1,7 +1,3 @@
-# MODIFICATION BILONG NTOUBA Celestin
-
-Ma modification Celestin
-
 # Open Transport
 
 Application web pour covoiturage. 
@@ -58,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
