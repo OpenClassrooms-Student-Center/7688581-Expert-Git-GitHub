@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Pas de pré-requis à installer du tout du tout du tout
 
 ```
 
@@ -35,7 +35,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -57,8 +57,16 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+=======
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/LICENSE) pour plus de détails
+>>>>>>> p1c4
+=======
+Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/LICENSE) pour plus de détails
+>>>>>>> main
