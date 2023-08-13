@@ -13,8 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 A définir 
 ajout de ma version local
-
-blablabla
+ajout de ma version distante
 
 ```
 
