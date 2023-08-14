@@ -14,7 +14,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 * Un ordinateur
 * Une connection internet haut débit
 *  Une piéce ou travailler au calme
-
+* Un ordinateur
+* Une connection internet haut débit
+*  Une piéce ou travailler au calme
 
 ```
 
