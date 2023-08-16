@@ -13,7 +13,11 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Aucun prérequis nécessaires
 
 ```
+<<<<<<< HEAD
 Avec de prérequis
+=======
+Sans prérequis prérequis
+>>>>>>> f10f400 (#3 modif locale 4)
 
 ```
 
