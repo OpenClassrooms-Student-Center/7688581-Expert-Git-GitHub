@@ -9,8 +9,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
-.Net 2005
 java jr8
+.Net 2005, 2010
 
 ```
 A définir
