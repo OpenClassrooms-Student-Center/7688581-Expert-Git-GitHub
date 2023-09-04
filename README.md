@@ -1,4 +1,4 @@
-# Open Transport
+#Déploiement Open Transport
 
 Application web pour covoiturage. 
 
@@ -9,6 +9,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
+java jr8
+.Net 2005, 2010
 
 ```
 A définir
@@ -33,7 +35,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +56,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O.C
 
 ## License
 
