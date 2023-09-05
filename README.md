@@ -45,6 +45,7 @@ A définir
 
 * HTML5/CSS3
 * [Boostrap](https://getbootstrap.com/)
+* javascript
 
 ## Contribution
 
