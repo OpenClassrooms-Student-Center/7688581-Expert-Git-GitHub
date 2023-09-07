@@ -2,7 +2,7 @@
 
 Application web pour covoiturage. 
 
-## Getting Started
+## Pour démarrer
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
@@ -21,7 +21,8 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+- Etape 1 : ...  
+- Etape 2 : ...
 ```
 
 
@@ -29,7 +30,8 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+- Etape 1 : ...  
+- Etape 2 : ...
 ```
 
 
@@ -38,7 +40,8 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+- Etape 1 : ...  
+- Etape 2 : ...
 ```
 
 ## Technologies :
@@ -53,8 +56,10 @@ Merci de lire les fichiers :
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
 ## Auteurs
-* Pablo Hououin
+
+Pablo Hououin
 
 ## License
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/LICENSE) pour plus de détails
+>>>>>>> release/0.0.2
