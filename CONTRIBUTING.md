@@ -1,7 +1,11 @@
 # CONTRIBUTING
 
 ```
+<<<<<<< HEAD
  
+=======
+Avant toutes choses, merci de vouloir contribuer  a notre projet!   
+>>>>>>> cd113a59dcd61b42f5f31d02a7a519320069a3e7
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
 ```
 
