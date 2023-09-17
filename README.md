@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. erf
+Application web pour covoiturage.
 
 ## Getting Started
 
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C**
 
 ## License
 
