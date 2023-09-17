@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour covoiturage.
 
 ## Getting Started
 
@@ -12,6 +12,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
+
+maitriser guihum
 
 ```
 
@@ -54,7 +56,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C**
 
 ## License
 
