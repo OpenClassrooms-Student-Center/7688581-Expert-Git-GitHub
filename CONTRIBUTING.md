@@ -14,5 +14,5 @@ Pour commencer, nous recommendons de consulter la liste des [issues](https://git
 
 - Chaque issue est catégorisée et nous demandons à ce qu'une première contribution soit obligatoire une issue de type "good first issue".  
 - Un contributeur doit forker le projet source puis pourra soumettre ces contributions via des pull requests.  
-- Les pull requests seront ensuite revues and traitées. L'issue associée sera mise à jour en conséquence.  
+- The pull request will be seen and treated by me. L'issue associée sera mise à jour en conséquence.  
 - Les commentaires doivent contenir le numéro de l'issue.
