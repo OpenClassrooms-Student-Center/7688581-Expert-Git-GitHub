@@ -34,7 +34,7 @@ A définir
 ```
 A définir : expliquer comment executer les tests
 ```
-
+- test bug stach
 
 ## Deployment
 
