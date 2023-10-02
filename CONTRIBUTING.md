@@ -1,4 +1,4 @@
-# CONTRIBUTING TEST 92i
+# CONTRIBUTING TEST
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
