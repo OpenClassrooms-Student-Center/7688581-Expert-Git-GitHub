@@ -21,6 +21,8 @@ A définir
 Bonjour j'aimerais créer un conflit. 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
+Je modifie la ligne
+
 
 ```
 A définir
