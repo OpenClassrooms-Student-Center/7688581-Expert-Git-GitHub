@@ -11,8 +11,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
-
+mkmkmk
+ssssMlasl
+Java
 ```
 
 ### Installation
@@ -33,7 +34,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
