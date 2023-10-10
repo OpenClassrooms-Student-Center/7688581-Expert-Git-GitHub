@@ -10,8 +10,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
+
+* Prérquis 1 : apprendre à gérer les conflits
 ```
-A définir
+A compléter
 
 ```
 
