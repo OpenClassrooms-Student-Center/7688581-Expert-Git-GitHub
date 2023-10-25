@@ -13,7 +13,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 A définir
 <--Modification local du fichier README.md-->
-
+Pré-requis 1
+Pré-requis 2
+Pré-requis 3
 ```
 
 ### Installation
