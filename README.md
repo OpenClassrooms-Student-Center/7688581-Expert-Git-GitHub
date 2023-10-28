@@ -46,6 +46,7 @@ A définir
 * HTML5/CSS3
 * [Boostrap](https://getbootstrap.com/)
 
+
 ## Contribution
 
 Merci de lire les fichiers :
@@ -54,7 +55,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* mirfou
 
 ## License
 
