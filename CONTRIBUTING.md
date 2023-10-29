@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# CONTRIBUTING TEST
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
@@ -16,3 +16,5 @@ Pour commencer, nous recommendons de consulter la liste des [issues](https://git
 - Un contributeur doit forker le projet source puis pourra soumettre ces contributions via des pull requests.  
 - Les pulls requests seront ensuite revues et traitées. L'issue associée sera mise à jour en conséquence.  
 - Les commentaires doivent contenir le numéro de l'issue.
+
+oublie fichier git commit 
