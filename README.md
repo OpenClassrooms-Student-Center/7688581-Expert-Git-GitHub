@@ -53,7 +53,7 @@ Please read the files:
 
 ## Auteurs
 
-**Unspecified**
+**Y.L.**
 
 ## License
 
