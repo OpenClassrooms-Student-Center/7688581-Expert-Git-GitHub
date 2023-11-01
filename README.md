@@ -52,7 +52,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-- **Anicet Loic**
+- **Anicet Loic AZEGHA KAMWOUA **
 
 ## License
 
