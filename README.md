@@ -24,8 +24,6 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 A définir
 ```
 
-
-
 ## Executer les tests
 
 ```
@@ -54,7 +52,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* Abderrazek BENKEMLA
 
 ## License
 
