@@ -1,27 +1,26 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Carpooling web application.
 
 ## Getting Started
-
-Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
+These instructions allow you to run a copy of the project locally on your workstation for development and testing. Refer to the “Deployment” section for the steps to deploy the project to production.
 
 ### Pré-requis
+To run the Open Transport project locally, you must first install:
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
-
+cela doit rester absolument
 ```
-A définir
+To define
 
 ```
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Here are the steps to follow to have a working development and testing environment:
 
 
 ```
-A définir
+To define
 ```
 
 
@@ -29,16 +28,16 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+To be defined: explain how to run the tests
 ```
 
 
 ## Deployment
 
-Voici les étapes à suivre pour déployer en production :
+Here are the steps to follow to deploy to production:
 
 ```
-A définir
+To define
 ```
 
 ## Technologies :
@@ -48,14 +47,14 @@ A définir
 
 ## Contribution
 
-Merci de lire les fichiers :
+Please read the files:
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
 ## Auteurs
 
-* **Non spécifié**
+**Y.L.**
 
 ## License
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+This project is under the GNU GPL V3 license - see file [LICENSE](LICENSE) for more details
