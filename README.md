@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour covoiturage de 2023 par Patrick chidap13. 
 
 ## Getting Started
 
