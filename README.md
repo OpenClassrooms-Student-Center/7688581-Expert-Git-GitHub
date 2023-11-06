@@ -16,9 +16,7 @@ A définir
 ```
 
 ### Installation
-
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-test
+test 1
 ```
 A définir
 ```
