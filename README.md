@@ -18,8 +18,7 @@ A définir
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-
-
+test
 ```
 A définir
 ```
@@ -54,7 +53,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+**Non spécifié**
 
 ## License
 
