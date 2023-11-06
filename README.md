@@ -1,4 +1,4 @@
-# Open Transport
+# Open Transport en commun
 
 Application web pour covoiturage. 
 
