@@ -16,8 +16,8 @@ A définir
 ```
 
 ### Installation
-test 1
-test 2
+
+
 ``
 A définir
 ```
@@ -52,9 +52,10 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-**Non spécifié**
+
+
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
-
+un autre test 1
