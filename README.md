@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+"En créant un conflit! Modification", Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
 ```
@@ -33,9 +33,9 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
-Voici les étapes à suivre pour déployer en production :
+"modifiant une autre ligne" Voici les étapes à suivre pour déployer en production :
 
 ```
 A définir
