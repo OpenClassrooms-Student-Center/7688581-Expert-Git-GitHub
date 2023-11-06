@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : **modification**
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : **seconde modification sur GitHub**
 
 
 ```
