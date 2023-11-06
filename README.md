@@ -1,4 +1,4 @@
-# Open Transport
+# Open hgh Transport
 
 Application web pour covoiturage. 
 
@@ -11,13 +11,13 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+A définirRRRRRRRRRRRRRR
 
 ```
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici TOUTES les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
 ```
