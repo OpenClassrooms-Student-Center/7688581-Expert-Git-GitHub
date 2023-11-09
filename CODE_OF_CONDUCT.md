@@ -1,7 +1,7 @@
 # Code de conduite _Contributor Covenant_
 version Hawa SOGOBA
 ## Notre engagement
-
+hawa jjjj
 En tant que membres, contributeurs et dirigeants, nous nous
 engageons à faire de la participation à notre communauté
 une expérience sans harcèlement, quel que soit l'âge, 
