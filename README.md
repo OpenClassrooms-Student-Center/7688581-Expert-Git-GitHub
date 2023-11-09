@@ -17,7 +17,11 @@ A définir
 
 ### Installation
 
+<<<<<<< HEAD
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : kamiiiiiiiiiiik,jngyu
+=======
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : yesssirrr
+>>>>>>> dd3961fb980fccd1223f1d9f0a69cc6e5f763b23
 
 
 ```
