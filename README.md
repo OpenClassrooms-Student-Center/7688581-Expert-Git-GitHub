@@ -34,7 +34,7 @@ A définir : expliquer comment executer les tests
 
 
 ## déploiement
- modification en deployement 
+ modification en deployements
 Voici les étapes à suivre pour déployer en production :
 
 ```
