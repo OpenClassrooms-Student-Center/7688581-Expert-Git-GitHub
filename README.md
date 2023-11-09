@@ -41,7 +41,7 @@ Voici les étapes à suivre pour déployer en production :
 A définir
 ```
 
-## Technologies :
+## Technology :
 
 * HTML5/CSS3
 * [Boostrap](https://getbootstrap.com/)
