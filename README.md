@@ -8,7 +8,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Les pré-requis pour ce projet sont:
+- un navigateur
+- une base de donnée
+- un editeur de texte
 
 ```
 A définir
@@ -16,7 +19,6 @@ A définir
 ```
 
 ### Installation
-
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
@@ -33,7 +35,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +56,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C**
 
 ## License
 
