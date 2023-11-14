@@ -44,6 +44,7 @@ A définir
 ## Technologies :
 
 * HTML5/CSS3
+* Avoir des notions basiques sur l'utilisation de Git et Github
 * [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
