@@ -44,6 +44,7 @@ A définir
 ## Technologies :
 
 * HTML5/CSS3
+* Savoir noter les conseils du prof
 * [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
