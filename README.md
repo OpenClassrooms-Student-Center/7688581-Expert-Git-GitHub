@@ -13,7 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir conclusion
-//exemple de conflis
+//exemple de conflis 2
 
 ```
 
