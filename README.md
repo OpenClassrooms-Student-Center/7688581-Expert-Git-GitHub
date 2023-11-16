@@ -23,7 +23,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 A définir
 ```
-test tp7
+Version finale TP7
 
 
 ## Executer les tests
