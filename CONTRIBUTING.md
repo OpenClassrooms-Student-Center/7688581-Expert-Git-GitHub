@@ -1,5 +1,5 @@
 # CONTRIBUTING
-
+Je modifie en premier le web.  
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
