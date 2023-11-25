@@ -1,5 +1,7 @@
 # Code de conduite _Contributor Covenant_
 
+Alors ici j'écris un commit foireux, qu'il ne faut pas balancer !
+
 ## Notre engagement
 
 En tant que membres, contributeurs et dirigeants, nous nous
