@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **O. C.test local**
+* **O. C.test local 3**
 
 ## License
 
