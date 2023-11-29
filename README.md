@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-Pas besoin de prérequis pour installer ce projet !
+Pour installer ce projet sur ton ordinateur, tu dois tout d'abord installer certains dépendances
 ```
 
 
