@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-Pas besoin de prérequis pour installer ce projet ! Wouuh !
+Pas besoin de prérequis pour installer ce projet !
 ```
 
 
