@@ -2,11 +2,8 @@
 
 Application web pour covoiturage. 
 
-<<<<<<< HEAD
+
 ## Pour commencer
-=======
-## Getting Started bis
->>>>>>> 050748c2169d4beb3d523cf7b56e70e8b4cb3876
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
