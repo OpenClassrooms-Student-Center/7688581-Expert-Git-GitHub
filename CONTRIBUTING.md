@@ -1,4 +1,7 @@
 # CONTRIBUTING
+Ma version après web fait localement
+
+Une correction 1.
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
@@ -7,8 +10,9 @@ C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoitu
 
 Open Transport recherche des contributeurs pour tous types de tâches : améliorations, correction de bugs, nouvelles fonctionnalités.
 
-## Comment contriburer ?
+## Comment contribuer ?
 
+:)local
 
 Pour commencer, nous recommendons de consulter la liste des [issues](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/issues)   
 
