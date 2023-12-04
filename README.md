@@ -46,7 +46,7 @@ A définir
 * HTML5/CSS3
 * [Boostrap](https://getbootstrap.com/)
 
-## Contribution
+## Contribution à OpenTransport
 
 Merci de lire les fichiers :
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
