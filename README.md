@@ -59,3 +59,5 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+## Il s'agit de l'issue #3 créant un cinflit à résoudre. Ici modificaiton du fichier via l'interface de GitHub
