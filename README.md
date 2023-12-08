@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Pas de Pré-requis
+Pour ce projet, le contributeur doit maitrîser JAVA
 
 ```
 
