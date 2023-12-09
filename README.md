@@ -61,3 +61,5 @@ Merci de lire les fichiers :
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
 ## EXERCICE : création d'un conflit en #3 ##
+
+## ESSAI PERSO : essai message pre-commit invalide avec option --no-verify ##
