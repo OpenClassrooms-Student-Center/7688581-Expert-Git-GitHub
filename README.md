@@ -26,7 +26,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -48,7 +48,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C**
 
 ## License
 
