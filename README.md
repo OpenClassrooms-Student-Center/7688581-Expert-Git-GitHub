@@ -17,7 +17,7 @@ Git et PHP
 
 ### Installation
 
-Voici toutes les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici une liste des étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
 ```
