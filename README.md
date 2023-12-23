@@ -11,13 +11,13 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Git et PHP
 
 ```
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici la liste des étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
 ```
@@ -33,9 +33,9 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
-Voici les étapes à suivre pour déployer en production :
+Voici la liste des étapes à suivre pour déployer en production :
 
 ```
 A définir
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* OC
 
 ## License
 
