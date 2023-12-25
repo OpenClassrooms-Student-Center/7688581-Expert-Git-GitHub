@@ -8,7 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pas de prérequis.
+Pas de prérequis. seul git est requis.
 
 ### Installation
 
