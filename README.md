@@ -10,6 +10,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pas de prérequis. seul git est requis.
 Serveur Apache
+un autre prérequis
 
 ### Installation
 
