@@ -18,7 +18,7 @@ A définir
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-
+CONFLIT_TEST2
 
 ```
 A définir
