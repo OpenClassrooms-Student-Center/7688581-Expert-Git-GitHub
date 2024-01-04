@@ -18,9 +18,10 @@ A définir
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-Etape 1
-Etape 2
-Etape 3
+
+* Etape 1
+* Etape 2
+* Etape 3
 
 
 ```
