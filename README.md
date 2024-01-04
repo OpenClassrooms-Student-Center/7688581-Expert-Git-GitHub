@@ -17,11 +17,9 @@ A définir
 
 ### Installation
 
-<<<<<<< HEAD
 Voici les étapes à suivre pour avoir un environnement de développement et de test qui marche :
 =======
 Voici les étapes à suivre pour avoir un environnement de développement et de test qui envoie du pâter :
->>>>>>> bd230e38219c66c80a9ba39f78fe956d3fc0bf19
 
 
 ```
