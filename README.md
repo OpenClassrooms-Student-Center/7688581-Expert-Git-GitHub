@@ -54,8 +54,12 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **Niang**
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+mis en pratique du cours
+
+je veut tester le git ribase
