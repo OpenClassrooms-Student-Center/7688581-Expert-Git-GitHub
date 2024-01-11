@@ -10,8 +10,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
-```
-A définir
+```git
+git clone https://github.com/Herindrainy2003/7688581-Expert-Git-GitHub.git
 
 ```
 
@@ -55,6 +55,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 * **Non spécifié**
+Auteurs : O.C
 
 ## License
 
