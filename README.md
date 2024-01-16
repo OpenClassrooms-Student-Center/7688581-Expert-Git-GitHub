@@ -51,7 +51,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-- **O.C.I.**
+- **O.C.A.**
 
 ## License
 
