@@ -1,4 +1,9 @@
-# Open Transport
+<<<<<<< HEAD
+modifier en local
+# Open Transport  local
+=======
+# Open Transport modif 1 ere ligne 
+>>>>>>> ff92fae448ab72064e6b60f15b3e316d28b07788
 
 Application web pour covoiturage. 
 
@@ -12,12 +17,12 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
-
+Modification!
 ```
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : modifier la ligne 20
 
 
 ```
