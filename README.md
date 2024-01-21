@@ -49,6 +49,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 * **Non spécifié**
+Dom
 
 ## License
 
