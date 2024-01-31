@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Visual Studio 2019
+MSSQLSERVER verson 8A
 
 ```
 
