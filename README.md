@@ -12,7 +12,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 1 - Installer tous les modules nodes nécessaires.
-
+ou
+1 - Initialiser un nouveau projet avec Node.
 ```
 
 ### Installation
