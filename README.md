@@ -52,7 +52,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 - **O.C.**
-- _MurderSmile_
+- _Raphaël Laroque(MurderSmile)_
 
 ## License
 
