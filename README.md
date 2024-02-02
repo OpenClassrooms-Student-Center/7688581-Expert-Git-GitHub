@@ -52,6 +52,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 - **O.C.**
+- *Raphaël Laroque*
 
 ## License
 
