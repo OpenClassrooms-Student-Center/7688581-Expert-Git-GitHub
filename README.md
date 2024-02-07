@@ -39,6 +39,8 @@ Voici les étapes à suivre pour déployer en production :
 
 ```
 A définir
+
+Etape 1
 ```
 
 ## Technologies :
