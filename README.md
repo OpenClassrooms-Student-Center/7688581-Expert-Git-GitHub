@@ -39,6 +39,8 @@ Voici les étapes à suivre pour déployer en production :
 
 ```
 A définir
+
+Etape 1
 ```
 
 ## Technologies :
@@ -54,7 +56,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O. C
 
 ## License
 
