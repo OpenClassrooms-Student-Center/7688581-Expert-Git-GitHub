@@ -1,12 +1,4 @@
 
-aaaa from github.com
-bbbbbbb from github.com
-ccccc from github.com
-hhhhhhh
-ajout ligne 1:wq!
-ajout
-
-xxxx
 
 # Open Transport
 
@@ -70,13 +62,4 @@ Merci de lire les fichiers :
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
-ajout dernière ligne
-ajout
 
-ajout
-jjjjj
-hhhhh
-iiiiiii
-
-
-aa from local
