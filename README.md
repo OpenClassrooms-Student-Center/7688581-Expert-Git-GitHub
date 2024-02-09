@@ -34,7 +34,7 @@ A définir
 A définir : expliquer comment executer les tests
 ```
 
-
+from local
 ## déploiement
 
 Voici les étapes à suivre pour déployer en production :
@@ -63,4 +63,5 @@ Merci de lire les fichiers :
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
 from github
+from local
 from github
