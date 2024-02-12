@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Au prealable nous devons avoir git installe sur notre machine en local
+Au prealable nous devons avoir git installer sur notre machine et une fois fait nous pouvons alors cloner le projet en local afin de pouvoir l'executer
 Un premier cours de base sur git et github
 Pas grand chose
 
