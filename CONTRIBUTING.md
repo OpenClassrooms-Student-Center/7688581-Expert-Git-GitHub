@@ -2,7 +2,7 @@
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
-C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
+C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire. 
 ```
 
 Open Transport recherche des contributeurs pour tous types de tâches : améliorations, correction de bugs, nouvelles fonctionnalités.
