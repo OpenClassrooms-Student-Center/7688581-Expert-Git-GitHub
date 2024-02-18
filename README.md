@@ -1,4 +1,3 @@
-# Open Transport
 
 Application web pour covoiturage. 
 

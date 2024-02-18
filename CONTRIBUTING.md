@@ -1,4 +1,3 @@
-# CONTRIBUTING
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
