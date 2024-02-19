@@ -8,7 +8,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Aucun
+Pour executer en local le projet Open Transpor, vous devez au préalable installer :
+
+Un navigateur web
+Un serveur web comme XAMPP
 
 ### Installation
 
