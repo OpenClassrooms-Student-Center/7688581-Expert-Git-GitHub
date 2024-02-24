@@ -2,7 +2,7 @@
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !
-avec plaisir monsieur !
+avec plaisir monsieur !!
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
 ```
 
