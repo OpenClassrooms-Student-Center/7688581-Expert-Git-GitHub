@@ -2,7 +2,7 @@
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !
-avec plaisir moin chère
+avec plaisir mon chère
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
 ```
 
