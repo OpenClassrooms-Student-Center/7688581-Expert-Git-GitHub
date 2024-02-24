@@ -1,7 +1,8 @@
 # CONTRIBUTING
 
 ```
-Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
+Avant toutes choses, merci de vouloir contribuer au projet Open Transport !
+Cela est d'une grande aide !   
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
 ```
 
