@@ -2,7 +2,11 @@
 
 ```
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !
+<<<<<<< HEAD
 avec plaisir !
+=======
+avec plaisir monsieur !!
+>>>>>>> 6b34863dce404b1a1bb339fb7a5441b00481376e
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
 ```
 
