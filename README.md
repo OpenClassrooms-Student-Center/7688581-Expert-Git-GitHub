@@ -10,7 +10,6 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
-Git
 A définir
 
 ```
@@ -62,3 +61,4 @@ Merci de lire les fichiers :
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
 
 
+sallut
