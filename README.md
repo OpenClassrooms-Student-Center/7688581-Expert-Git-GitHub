@@ -58,3 +58,5 @@ Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) po
 # test conflit 1
 
 # test conflit 2
+
+modif git commit --amend
