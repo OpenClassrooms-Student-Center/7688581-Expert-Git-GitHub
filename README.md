@@ -13,6 +13,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 Python36
 Python37
+Python38.4
 ```
 
 ### Installation
