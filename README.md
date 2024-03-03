@@ -53,7 +53,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **o.c.**
+* **Njaka**
 
 ## License
 
