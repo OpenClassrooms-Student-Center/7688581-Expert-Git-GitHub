@@ -1,7 +1,5 @@
 # Open Transport 
 
-<!-- commentaire supplémentaire ajouté !-->
-
 Application web pour covoiturage. 
 
 ## Getting Started
