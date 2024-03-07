@@ -15,6 +15,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 - Git
 -wamp64
 - chrome
+- un ordinateur
 
 ```
 
