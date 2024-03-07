@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour covoiturage.
 
 ## Pour démarrer
 
@@ -21,16 +21,16 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-- Etape 1 : ...  
+- Etape 1 : ...
 - Etape 2 : ...
 ```
 
-
+Ajout d'une ligne dans le fichier
 
 ## Executer les tests
 
 ```
-- Etape 1 : ...  
+- Etape 1 : ...
 - Etape 2 : ...
 ```
 
@@ -40,7 +40,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 Voici les étapes à suivre pour déployer en production :
 
 ```
-- Etape 1 : ...  
+- Etape 1 : ...
 - Etape 2 : ...
 ```
 
@@ -53,7 +53,7 @@ Voici les étapes à suivre pour déployer en production :
 
 Merci de lire les fichiers :
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
+* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 
 ## Auteurs
 
