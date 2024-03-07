@@ -17,6 +17,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 - chrome
 - un ordinateur
 - test 5
+ -test 6 git
 
 ```
 
