@@ -1,14 +1,14 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour convoiturage. 
 
 ## Getting Started
 
-Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
+Ces instructions permettent d'exécuter une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Pour exécuter en local le projet Open Transport, vous devez au préalable installer :
 
 ```
 A définir
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **XD shoot**
 
 ## License
 
