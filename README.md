@@ -11,7 +11,7 @@ Ces instructions permettent d'exécuter une copie du projet en local sur votre p
 Pour exécuter en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+A définir java 11
 
 ```
 
