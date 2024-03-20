@@ -38,7 +38,7 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+A définir : procédure
 ```
 
 ## Technologies :
