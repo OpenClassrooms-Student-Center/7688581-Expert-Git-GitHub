@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 avoir une Ram de 4Go, fr:2,3Ghz
-
+avoir un ordinateur puissant
 ```
 
 ### Installation
