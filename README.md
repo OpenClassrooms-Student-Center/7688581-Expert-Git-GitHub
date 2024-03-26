@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Le fichier README.md doit être complété par la liste des prérequis nécessaires à l'installation du projet.
-Si aucun prérequis n'est nécessaire, le texte doit être adapté pour indiquer qu'il n'y'a pas de prérequis.
+Si aucun prérequis n'est nécessaire, le texte doit être adapté pour indiquer qu'il n'y'a pas de prérequis. ok
 
 ```
 
