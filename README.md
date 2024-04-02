@@ -11,8 +11,11 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
-
+- Sublime text pour les amateurs
+- Un IDE de votre choix (type VSCode, IntelliJ, JetBrains, ...)
+- Git, the best overall
+- Un navigateur pour pourvoir suivre le cours
+- Un PC ou une tablette
 ```
 
 ### Installation
@@ -33,7 +36,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
