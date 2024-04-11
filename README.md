@@ -36,7 +36,7 @@ A définir : expliquer comment executer les tests
 ## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
-c'est ok
+yes
 ```
 A définir
 ```
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **O.C**
+* **Non spécifié**
 
 ## License
 
