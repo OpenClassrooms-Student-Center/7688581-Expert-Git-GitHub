@@ -12,6 +12,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
+aucun pre-requis actuellement intrinseque
+aucun pre-requis actuellement du type
+et je modifie
 
 ```
 
@@ -33,7 +36,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +57,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O. C.
 
 ## License
 
