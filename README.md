@@ -1,6 +1,6 @@
 ## Deployment
 
-Voici lèy pour déployer en production :
+Voici lessss pour déployer en production :
 
 ```
 A définir
