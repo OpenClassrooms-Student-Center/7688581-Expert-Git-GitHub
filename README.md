@@ -1,6 +1,6 @@
 ## Deployment
 
-Voici les étapes à suivre pour déployer en production :
+Voici lèy pour déployer en production :
 
 ```
 A définir
