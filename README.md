@@ -1,6 +1,5 @@
-# Open Transport
 
-Application web pour covoiturage. 
+
 
 ## Getting Started
 
@@ -33,7 +32,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +53,11 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+<<<<<<< HEAD
+* O. Changé.
+=======
+* O. C  NONON.
+>>>>>>> b436b90e838a1593872580b6a285b4ec518ac819
 
 ## License
 
