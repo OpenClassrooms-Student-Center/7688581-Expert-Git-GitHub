@@ -29,7 +29,7 @@ A définir
 ## Executer les tests
 
 ```
-A définir
+A définir : expliquer comment executer les tests
 ```
 
 
@@ -38,7 +38,7 @@ A définir
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir : expliquer chaque étape
+A définir
 ```
 
 ## Technologies :
