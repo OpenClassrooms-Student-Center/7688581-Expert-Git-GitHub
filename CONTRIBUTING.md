@@ -9,6 +9,7 @@ Open Transport recherche des contributeurs pour tous types de tâches : amélior
 
 
 ## Comment contribuer ?
+## Puis in english
 ## How to contribute ?
 
 
