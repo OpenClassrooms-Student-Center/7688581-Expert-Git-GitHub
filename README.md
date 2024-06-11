@@ -28,6 +28,8 @@ A définir
 
 ## Executer les tests
 
+Avant d'executer les tests il faut :
+
 ```
 A définir : expliquer comment executer les tests
 ```
