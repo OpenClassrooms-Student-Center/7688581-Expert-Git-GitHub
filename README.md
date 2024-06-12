@@ -1,5 +1,5 @@
 # Open Transport
-
+version Hawa Sogoba 
 Application web pour covoiturage. 
 
 ## Getting Started
@@ -18,7 +18,7 @@ A définir
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-
+mon installation est reussi 
 
 ```
 A définir
