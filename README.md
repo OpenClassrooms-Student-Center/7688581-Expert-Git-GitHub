@@ -1,3 +1,5 @@
+modificatif 3
+
 # Open Transport
 
 Application web pour covoiturage. 
@@ -9,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
-
+modifier 
 ```
 A définir
 
@@ -17,7 +19,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : SSSSSSSS
 
 
 ```
@@ -54,7 +56,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O. C
 
 ## License
 
