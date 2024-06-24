@@ -33,11 +33,11 @@ A définir : expliquer comment executer les tests
 
 Voici les étapes à suivre pour déployer en production :
 
-```
-A définir
-```
 
-## Technologies :
+A définir
+
+
+## Technologie :
 
 - HTML5/CSS3
 - [Boostrap](https://getbootstrap.com/)
@@ -51,7 +51,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
--O.C
+-O.C 
 
 ## License
 
