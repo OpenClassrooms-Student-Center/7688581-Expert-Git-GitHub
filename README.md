@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Pré-requis pour tester un merge
+Pré-requis pour tester un merge modif 2 en ligne
 
 ```
 
