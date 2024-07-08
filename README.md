@@ -14,6 +14,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Ma ligne mergée 2
 J'en mets même une deuxième.
 
+-- test du amend
+Ligne du readme commité
+
 ```
 
 ### Installation
