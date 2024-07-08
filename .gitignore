@@ -52,7 +52,8 @@ cmake-build-*/
 # IntelliJ
 out/
 
-# mpeltonen/sbt-idea plugin
+
+# mpeltonen/sbt-idea plugin coucou
 .idea_modules/
 
 # JIRA plugin
