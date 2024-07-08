@@ -11,7 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Pré-requis modif locale depuis Android Studio
+Ma ligne mergée
+J'en mets même une deuxième.
 
 ```
 
