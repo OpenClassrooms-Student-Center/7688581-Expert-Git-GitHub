@@ -55,6 +55,8 @@ Merci de lire les fichiers :
 ## Auteurs
 
 * O. C. ytyt
+* O. C. TINTINTINTINT
+
 
 ## License
 
