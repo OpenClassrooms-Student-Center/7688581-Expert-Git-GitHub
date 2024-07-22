@@ -21,8 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ## Executer les tests
 
 ```
-- Etape 1 : ...  
-- Etape 2 : ...
+A définir : expliquer comment executer les tests
 ```
 
 
