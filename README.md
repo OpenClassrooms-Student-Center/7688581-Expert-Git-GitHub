@@ -14,7 +14,11 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 Pré-requis 1
 
-toto111222
+
+
+
+
+
 
 
 ```
@@ -58,7 +62,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O. C. B. C.
+* O. C. 
 
 ## License
 
