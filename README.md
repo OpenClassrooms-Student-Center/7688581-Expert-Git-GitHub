@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+Pas besoin de prérequis pour installer ce projet !
 ```
 
 
@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiment
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **Dieu donné**
 
 ## License
 
