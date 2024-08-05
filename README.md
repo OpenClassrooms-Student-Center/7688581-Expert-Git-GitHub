@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
- TOUT RESTE A FAIRE, ben veyon
+ TOUT RESTE A FAIRE, ben veyonz
 ```
 
 
