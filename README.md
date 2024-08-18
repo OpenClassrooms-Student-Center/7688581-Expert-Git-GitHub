@@ -1,6 +1,7 @@
 # Open Transport
 
 Application web pour covoiturage. 
+ma première modification 
 
 ## Getting Started
 
@@ -54,7 +55,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **o.c.o**
 
 ## License
 
