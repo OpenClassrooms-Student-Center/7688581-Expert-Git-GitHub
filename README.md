@@ -19,7 +19,6 @@ Git
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
-
 ```
 A définir
 ```
