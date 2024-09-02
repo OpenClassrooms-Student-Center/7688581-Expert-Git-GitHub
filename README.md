@@ -1,5 +1,5 @@
 # Open Transport
-
+j'ai modifié ce fichier
 Application web pour covoiturage. 
 
 ## Getting Started
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
