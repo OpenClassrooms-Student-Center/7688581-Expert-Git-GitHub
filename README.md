@@ -41,6 +41,10 @@ Voici les étapes à suivre pour déployer en production :
 A définir
 ```
 
+## Deployment
+
+
+
 ## Technologies :
 
 * HTML5/CSS3
@@ -54,7 +58,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+*oc.**
 
 ## License
 
