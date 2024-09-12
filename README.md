@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel : (modif Mélodie)
 
 
 ```
@@ -58,4 +58,8 @@ Merci de lire les fichiers :
 
 ## License
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de 
+
+## Auteur : Mélodie 
+
+modification de 18 novembre 2022
