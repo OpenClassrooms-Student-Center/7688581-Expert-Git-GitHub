@@ -26,14 +26,14 @@ A définir
 
 
 
-## Executer les tests
+## Executer les tests 
 
 ```
 A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -52,7 +52,7 @@ Merci de lire les fichiers :
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
-## Auteurs
+## kazi kuete chanel
 
 * **Non spécifié**
 
