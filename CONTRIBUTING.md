@@ -1,7 +1,7 @@
 # CONTRIBUTING
 
 ```
-Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
+Avant toutes choses, merci de vouloir contribuer au projet Open Trans
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
 ```
 
@@ -16,3 +16,4 @@ Pour commencer, nous recommendons de consulter la liste des [issues](https://git
 - Un contributeur doit forker le projet source puis pourra soumettre ces contributions via des pull requests.  
 - Les pulls requests seront ensuite revues et traitées. L'issue associée sera mise à jour en conséquence.  
 - Les commentaires doivent contenir le numéro de l'issue.
+ouss
