@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour covoiturage . 
 
 ## Getting Started
 
@@ -53,6 +53,7 @@ Merci de lire les fichiers :
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
 ## Auteurs
+TKDM
 
 * **Non spécifié**
 
