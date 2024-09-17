@@ -10,6 +10,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
+-node js
+-PHP server
+
 ```
 A définir
 
@@ -31,7 +34,7 @@ A définir
 ```
 A définir : expliquer comment executer les tests
 ```
-
+- test bug stach
 
 ## Deployment
 
@@ -54,7 +57,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
