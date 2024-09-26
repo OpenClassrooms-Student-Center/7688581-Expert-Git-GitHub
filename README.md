@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Create uber App
 
 ## Getting Started
 
@@ -43,7 +43,7 @@ A définir
 
 ## Technologies :
 
-* HTML5/CSS3
+* HTML5/CSS3/JS/PHP
 * [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
@@ -59,3 +59,4 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
