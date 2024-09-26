@@ -1,4 +1,4 @@
-# Open Transport
+# Open Transport Open Transport
 
 Application web pour covoiturage. 
 
@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+La ligne 14
 
 ```
 
@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+- installer git, github
 ```
 
 
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* Moi et 
 
 ## License
 
