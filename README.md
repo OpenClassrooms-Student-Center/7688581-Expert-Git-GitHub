@@ -9,7 +9,13 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
-
+forker
+clone
+git
+kkgk
+git
+forker
+cloner
 ```
 A définir
 
@@ -54,8 +60,11 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+*O.C. ****
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+# modification pour tester 
+je suis le premier plan d'attaque du cours opcenclassroom. Il s'agit de modifier le README.md et ensuite faire un commmit et un pull requeist.
