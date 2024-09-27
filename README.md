@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
-
+Un editeur de text
 ```
 
 ### Installation
@@ -23,7 +23,8 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 A définir
 ```
-
+Connexion internet
+Un navigateur
 
 
 ## Executer les tests
@@ -33,7 +34,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,8 +55,9 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+## Test
