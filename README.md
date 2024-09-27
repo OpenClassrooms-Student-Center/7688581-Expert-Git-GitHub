@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour covoiturage avancé 
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel bien fait  :
 
 
 ```
@@ -33,8 +33,8 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
-
+## déploiement
+ modification en deployements
 Voici les étapes à suivre pour déployer en production :
 
 ```
