@@ -1,12 +1,14 @@
+trop de la merde
+
 # Open Transport
 
 Application web pour covoiturage. 
 
-## Getting Started
+## Getting Started   Je t ai encore modifiééééééé ahhah
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
-### Pré-requis
+### Pré-requis  AHAHHAHAHAAHHAHAHA 
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
@@ -48,7 +50,7 @@ A définir
 
 ## Contribution
 
-Merci de lire les fichiers :
+Merci de lire les fichiers : Ca me casse les couilles
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
