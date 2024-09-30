@@ -1,61 +1,65 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Web application for carpooling.
 
 ## Getting Started
 
-Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
+These instructions will guide you through running a copy of the Open Transport project locally on your workstation for development and testing purposes. Refer to the "Deployment" section for instructions on deploying the project to production.
 
-### Pré-requis
+### Prerequisites
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+To run the Open Transport project locally, you must first install:
+
+
 
 ```
-A définir
+To be defined
 
 ```
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Follow these steps to set up a fully functional development and testing environment:
 
 
 ```
-A définir
+To be defined
 ```
 
 
 
-## Executer les tests
+
+## Running Tests
+
+
 
 ```
-A définir : expliquer comment executer les tests
+To be defined: explain how to run the tests
 ```
-
 
 ## Deployment
 
-Voici les étapes à suivre pour déployer en production :
+Here are the steps to deploy the project to production:
 
 ```
-A définir
+To be defined
 ```
 
-## Technologies :
+## Technologies
 
 * HTML5/CSS3
-* [Boostrap](https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Contribution
 
-Merci de lire les fichiers :
+Please read the following files:
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
+* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 
-## Auteurs
+## Authors
 
-* **Non spécifié**
+* **Not specified**
 
 ## License
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+This project is licensed under the GNU GPL V3 - see the [LICENSE](LICENSE) file for more details.
