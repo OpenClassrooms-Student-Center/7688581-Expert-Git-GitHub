@@ -1,65 +1,61 @@
 # Open Transport
 
-Web application for carpooling.
+Application web pour covoiturage.
 
 ## Getting Started
 
-These instructions will guide you through running a copy of the Open Transport project locally on your workstation for development and testing purposes. Refer to the "Deployment" section for instructions on deploying the project to production.
+Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
-### Prerequisites
+### Pré-requis
 
-To run the Open Transport project locally, you must first install:
-
-
+Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-To be defined
+A définir
 
 ```
 
 ### Installation
 
-Follow these steps to set up a fully functional development and testing environment:
+Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
 ```
-To be defined
+A définir
 ```
 
 
 
-
-## Running Tests
-
-
+## Executer les tests
 
 ```
-To be defined: explain how to run the tests
+A définir : expliquer comment executer les tests
 ```
 
-## Deployment
 
-Here are the steps to deploy the project to production:
+## Deploiement
+
+Voici les étapes à suivre pour déployer en production :
 
 ```
-To be defined
+A définir
 ```
 
-## Technologies
+## Technologies :
 
 * HTML5/CSS3
-* [Bootstrap](https://getbootstrap.com/)
+* [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
 
-Please read the following files:
+Merci de lire les fichiers :
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 
-## Authors
+## Auteurs
 
-* **Not specified**
+* **O.C**
 
 ## License
 
-This project is licensed under the GNU GPL V3 - see the [LICENSE](LICENSE) file for more details.
+Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
