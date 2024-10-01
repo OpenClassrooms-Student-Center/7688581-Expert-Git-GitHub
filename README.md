@@ -10,9 +10,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
-fr
-Pas de prérequis
-frfr
+frfffff
+Pas de prérequisffff
+frfrffff
 
 ### Installation
 
