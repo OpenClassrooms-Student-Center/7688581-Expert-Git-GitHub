@@ -8,7 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Il n'y a pas de prérequis
+Nécessite de forker le projet original
 
 ### Installation
 
