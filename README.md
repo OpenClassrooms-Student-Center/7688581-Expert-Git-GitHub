@@ -10,14 +10,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
-<<<<<<< HEAD
 ```
-pas de prérequis
+un navigateur web
 
 ```
-=======
-kedro==0.18.3
->>>>>>> 238198de98520bcd980fcc82bea2b597532f5a79
 
 ### Installation
 
