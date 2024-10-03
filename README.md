@@ -2,7 +2,7 @@
 
 Application web pour covoiturage. 
 
-## Getting Started
+## Getting Started 
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
@@ -10,10 +10,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
-```
-A définir
-
-```
+Node Js
 
 ### Installation
 
@@ -33,7 +30,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -48,13 +45,13 @@ A définir
 
 ## Contribution
 
-Merci de lire les fichiers :
+Merci de lire les fichiers:
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
 ## Auteurs
 
-* **Non spécifié**
+* O.C
 
 ## License
 
