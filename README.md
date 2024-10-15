@@ -11,7 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Ne pas avoit de conflit
+Page Web
+Serveur web comme Xaap
 
 ```
 
