@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **Alex Sms Nta Greg 6.0**
 
 ## License
 
