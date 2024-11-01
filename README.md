@@ -11,7 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+modife de la ligne depuis l'interface git
+je suis en train de modifier le readme
 
 ```
 
@@ -20,9 +21,7 @@ A définir
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
-```
-A définir
-```
+Je n'ai aucuen idée de comment on eput l'installer on ne l'a meme fini je crois cece etant je continue à ecrire juste pour modifier le texte 
 
 
 
@@ -30,6 +29,7 @@ A définir
 
 ```
 A définir : expliquer comment executer les tests
+je ne sais pas de quoi il s'agit.
 ```
 
 
@@ -39,6 +39,7 @@ Voici les étapes à suivre pour déployer en production :
 
 ```
 A définir
+jeje
 ```
 
 ## Technologies :
