@@ -11,7 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Pas de prérequis pour le moment
+Un éditeur de texte tel que sublime text ou vs code.
+
 ```
 
 ### Installation
