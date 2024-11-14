@@ -10,10 +10,6 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Aucun pré-requis pour le moment
 
-```
-A définir
-
-```
 
 ### Installation
 
