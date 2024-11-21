@@ -1,0 +1,35 @@
+[33mcommit a0cfcb1fad057ccd835f65c6c6651937d8758a52[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mouataz Billah <mouatazbillah97@gmail.com>
+Date:   Fri Oct 28 10:23:40 2022 +0100
+
+    ajouter de l'auteur
+
+[33mcommit f4f290c87894eac23fee9f1d5346279f3a304265[m
+Author: Mouataz Billah <mouatazbillah97@gmail.com>
+Date:   Fri Oct 28 10:19:27 2022 +0100
+
+    fixing a word issue
+
+[33mcommit 273b37924d6126cd2413d915f2ddd39590712125[m
+Author: romainsessa <romainsessa@gmail.com>
+Date:   Thu Jun 23 08:41:41 2022 +0200
+
+    Update CODE_OF_CONDUCT.md
+
+[33mcommit c3ca7e9f03c832b1a101a9d15196df9e86152f58[m
+Author: Romain Sessa <19792764+romainsessa@users.noreply.github.com>
+Date:   Wed Mar 16 13:54:06 2022 +0100
+
+    Update CONTRIBUTING.md
+
+[33mcommit cba9b3cdf34e868bd7a938629cac11659f41f33f[m
+Author: Romain Sessa <19792764+romainsessa@users.noreply.github.com>
+Date:   Wed Mar 16 13:52:58 2022 +0100
+
+    Update CONTRIBUTING.md
+
+[33mcommit 81e203e7acb086b2b3a1ce0f01afe73894f9a170[m
+Author: romainsessa <romainsessa@gmail.com>
+Date:   Wed Mar 16 11:53:31 2022 +0100
+
+    Fichiers de documentation : README, CONTRIBUTING, CODE OF CONDUCT, LICENCE
