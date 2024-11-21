@@ -1,4 +1,4 @@
-# Open Transport
+# Open Transport  ggg
 
 Application web pour covoiturage. 
 
@@ -8,14 +8,14 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Pour executer en local le projet Open Transport, vous devez au préalable installer : Un navigateur web
 
 ```
-A définir
+A définir  
 
 ```
 
-### Installation
+### Installation1
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
