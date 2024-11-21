@@ -11,17 +11,17 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Pré-requis : A définir
 
 ```
 
-### Installation
+### Installation1
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
 ```
-A définir
+A définir : Telechargement à faire 
 ```
 
 
@@ -30,6 +30,9 @@ A définir
 
 ```
 A définir : expliquer comment executer les tests
+les tests s'execute en local
+Les tests s'execute en mode distant(GitHub)
+
 ```
 
 
@@ -54,7 +57,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C.**
 
 ## License
 
