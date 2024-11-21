@@ -1,5 +1,5 @@
 # Open Transport
-
+erreur code 
 Application web pour covoiturage. 
 
 ## Getting Started
@@ -9,9 +9,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
-
+modif
 ```
-A définir
+installer git test philippe 
 
 ```
 
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **P.F.**
 
 ## License
 
