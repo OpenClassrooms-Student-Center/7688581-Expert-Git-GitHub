@@ -7,7 +7,7 @@ engageons à faire de la participation à notre communauté
 une expérience sans harcèlement, quel que soit l'âge, 
 la taille corporelle, le handicap visible ou invisible, l'appartenance ethnique,
 les caractéristiques sexuelles, l'identité et l'expression de genre, 
-le niveau d'expérience, l'éducation, le statut socio-économique, 
+le niveau d'expérience, l', le  socio-économique, 
 la nationalité, l'apparence personnelle, la race, la religion, 
 ou l'identité et l'orientation sexuelle.
 
