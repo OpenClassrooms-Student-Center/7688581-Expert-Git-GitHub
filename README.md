@@ -1,10 +1,14 @@
 # Open Transport
 
-Application web pour covoiturage. 
+<<<<<<< HEAD
+Application web pour covoiturage au senegal. 
+=======
+Application web pour covoiturage au cameroun. 
+>>>>>>> 499588f6ef530e4c5a7d44e2442f766f266cca2f
 
 ## Getting Started
 
-Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
+Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déployement" pour les étapes à suivre pour déployer le projet .
 
 ### Pré-requis
 
@@ -38,7 +42,7 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+A déf
 ```
 
 ## Technologies :
