@@ -21,7 +21,11 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+<<<<<<< HEAD
+Créer un conflit
+=======
+Le but est de créer un conflit ieàizengàirzejgznoifjiudbiuzfbiu
+>>>>>>> 4e49604a87dca56f2085ba9d97771cc921bbf994
 ```
 
 
@@ -29,7 +33,7 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+A définir
 ```
 
 
