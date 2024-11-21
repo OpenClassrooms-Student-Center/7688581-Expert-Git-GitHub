@@ -1,5 +1,5 @@
 # Open Transport
-
+test le 25/03/2023
 Application web pour covoiturage. 
 
 ## Getting Started
@@ -33,7 +33,8 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement francais
+
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +55,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+ O. C.
 
 ## License
 
