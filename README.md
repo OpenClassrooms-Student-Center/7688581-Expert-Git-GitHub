@@ -43,7 +43,7 @@ A définir
 
 ## Technologies :
 
-* HTML5/CSS3
+* HTML5/CSS123/ javascript
 * [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+*  O. C.
 
 ## License
 
