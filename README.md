@@ -1,6 +1,6 @@
-# Open Transport
+# Smartome
 
-Application web pour covoiturage. 
+Application web pour IOT
 
 ## Getting Started
 
@@ -8,11 +8,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Pour executer en local le projet , vous devez au préalable installer :
 
 ```
-Il n'y a pas de prérequis.
-
+Cf. Requirements.txt
 ```
 
 ### Installation
@@ -43,18 +42,14 @@ A définir
 
 ## Technologies :
 
-* HTML5/CSS3
-* [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
 
 Merci de lire les fichiers :
-* [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
 ## Auteurs
 
-* O. C.
+* L.B.
 
 ## License
 
