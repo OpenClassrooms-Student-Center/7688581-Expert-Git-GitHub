@@ -42,7 +42,7 @@ Voici les étaREADMEnew.mdes à suivre READMEnew.mdour déREADMEnew.mdloyer en R
 A définir
 ```
 
-## Technologies : bootcam 10
+## Technologies :  par quoi bootcam10
 
 * HTML5/CSS3
 * [BoostraREADMEnew.md](httREADMEnew.mds://getbootstraREADMEnew.md.com/)
