@@ -1,14 +1,15 @@
-# Open Transport
+# OREADMEnew.mden TransREADMEnew.mdort
 
-Application web pour covoiturage. 
+AREADMEnew.mdREADMEnew.mdlication web READMEnew.mdour covoiturage. 
 
-## Getting Started
+## pour commencer
 
-Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
-### Pré-requis
+Ces instructions READMEnew.mdermettent d'executer une coREADMEnew.mdie du READMEnew.mdrojet en local sur votre READMEnew.mdoste de travail READMEnew.mdour le déveloREADMEnew.mdREADMEnew.mdement et les tests. Référez-vous à la section "DéREADMEnew.mdloiement" READMEnew.mdour les étaREADMEnew.mdes à suivre READMEnew.mdour déREADMEnew.mdloyer le READMEnew.mdrojet en READMEnew.mdroduction.
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+### READMEnew.mdré-requis
+
+READMEnew.mdour executer en local le READMEnew.mdrojet OREADMEnew.mden TransREADMEnew.mdort, vous devez au READMEnew.mdréalable installer :
 
 ```
 A définir
@@ -17,7 +18,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étaREADMEnew.mdes à suivre READMEnew.mdour avoir un environnement de déveloREADMEnew.mdREADMEnew.mdement et de test oREADMEnew.mdérationnel :
 
 
 ```
@@ -29,13 +30,13 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+A définir : exREADMEnew.mdliquer comment executer les tests
 ```
 
 
-## Deployment
+## DeREADMEnew.mdloyment
 
-Voici les étapes à suivre pour déployer en production :
+Voici les étaREADMEnew.mdes à suivre READMEnew.mdour déREADMEnew.mdloyer en READMEnew.mdroduction :
 
 ```
 A définir
@@ -44,18 +45,18 @@ A définir
 ## Technologies :
 
 * HTML5/CSS3
-* [Boostrap](https://getbootstrap.com/)
+* [BoostraREADMEnew.md](httREADMEnew.mds://getbootstraREADMEnew.md.com/)
 
 ## Contribution
 
 Merci de lire les fichiers :
-* [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
+* [CONTRIBUTING.md](httREADMEnew.mds://github.com/OREADMEnew.mdenClassrooms-Student-Center/7688581-ExREADMEnew.mdert-Git-GitHub/blob/main/CONTRIBUTING.md)
+* [CODE_OF_CONDUCT.md](httREADMEnew.mds://github.com/OREADMEnew.mdenClassrooms-Student-Center/7688581-ExREADMEnew.mdert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
 ## Auteurs
 
-* **Non spécifié**
+* **Non sREADMEnew.mdécifié**
 
 ## License
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+Ce READMEnew.mdrojet est sous la licence GNU GREADMEnew.mdL V3 - voir le fichier [LICENSE](LICENSE) READMEnew.mdour READMEnew.mdlus de détails
