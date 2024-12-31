@@ -10,13 +10,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer (Linux):
 
-- Git
+- Un navigateur web
 
-```
-apt install git
-```
+- Un serveur XAMP
 
-- Un éditeur de code type Visual Studio Code
 
 ### Installation
 
