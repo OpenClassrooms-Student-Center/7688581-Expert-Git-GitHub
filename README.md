@@ -12,9 +12,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 - Git
 
-'''
+```
 apt install git
-'''
+```
 
 - Un éditeur de code type Visual Studio Code
 
