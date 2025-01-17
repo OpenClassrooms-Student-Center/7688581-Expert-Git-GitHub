@@ -54,7 +54,9 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Emmanuel SOUWOUIN**
+* **Noël Emmanuel Jahou SOUWOUIN**
+
+## Ajout 
 
 ## License
 
