@@ -15,7 +15,7 @@ A définir
 
 ```
 
-### Installation
+### Installation ISSUE#2.1
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déployment
 
 Voici les étapes à suivre pour déployer en production :
 
