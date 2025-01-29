@@ -1,61 +1,68 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour le covoiturage. 
 
 ## Getting Started
 
-Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
+Ces instructions permettent d'exécuter une copie du projet en local sur votre poste de travail pour le développement et les tests.  
+Référez-vous à la section **"Déploiement"** pour connaître les étapes à suivre afin de mettre le projet en production.
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Avant d'exécuter le projet **Open Transport** en local, assurez-vous d'avoir installé les dépendances suivantes :
 
-```
-A définir
+À définir
 
-```
+bash
+Copier
+Modifier
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
+Voici les étapes à suivre pour configurer un environnement de développement et de test opérationnel :
 
+À définir
 
-```
-A définir
-```
+bash
+Copier
+Modifier
 
+## Exécuter les tests
 
+Pour exécuter les tests du projet, suivez ces instructions :
 
-## Executer les tests
+À définir : expliquer comment exécuter les tests
 
-```
-A définir : expliquer comment executer les tests
-```
+markdown
+Copier
+Modifier
 
+## Déploiement
 
-## Deployment
+Pour mettre en production l'application **Open Transport**, suivez ces étapes :
 
-Voici les étapes à suivre pour déployer en production :
+À définir
 
-```
-A définir
-```
+markdown
+Copier
+Modifier
 
-## Technologies :
+## Technologies utilisées
 
-* HTML5/CSS3
-* [Boostrap](https://getbootstrap.com/)
+* **HTML5 / CSS3**
+* **[Bootstrap](https://getbootstrap.com/)**
 
 ## Contribution
 
-Merci de lire les fichiers :
-* [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
+Merci de prendre connaissance des règles de contribution avant d'ajouter du code :  
+* [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)  
+* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CODE_OF_CONDUCT.md)  
 
 ## Auteurs
 
 * **Non spécifié**
 
-## License
+## Licence
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+Ce projet est sous la licence **GNU GPL V3**.  
+Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
