@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Navigateur Web
-Un serveur 
+Un serveur
 ```
 
 ### Installation
