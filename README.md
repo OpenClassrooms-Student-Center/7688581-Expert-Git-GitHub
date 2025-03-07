@@ -2,13 +2,17 @@
 
 Application web pour covoiturage. 
 
-## Getting Started
+## Commencement du Fork
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Installation d'un git en local 
+Avoir un compte github c'est nessecaire pour le travail en collaboration
+Avoir un navigateur Web
+Et un editeur du text comme VSCode
 
 ```
 A définir
@@ -22,6 +26,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 ```
 A définir
+Modification des erreurs
 ```
 
 
@@ -54,7 +59,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **Oldon**
 
 ## License
 
