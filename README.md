@@ -11,8 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
-
+connaitre les bases de git, le devellopement web 
+connaitre les bases de git et github
 ```
 
 ### Installation
@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+installer git, un editeur comme vsCode et chrome 
 ```
 
 
@@ -33,12 +33,13 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+choisir un hebergeur en ligne
+choisir un hostinger
 ```
 
 ## Technologies :
@@ -54,7 +55,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C**
 
 ## License
 
