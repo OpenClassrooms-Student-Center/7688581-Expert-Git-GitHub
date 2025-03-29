@@ -12,6 +12,9 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
+-Installation d'un navigateur
+-Installation de git.
+-modification
 
 ```
 
@@ -30,10 +33,12 @@ A définir
 
 ```
 A définir : expliquer comment executer les tests
+- Utilisation du : git --amend
+
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -52,7 +57,7 @@ Merci de lire les fichiers :
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
-## Auteurs
+## Auteurs : O.C
 
 * **Non spécifié**
 
