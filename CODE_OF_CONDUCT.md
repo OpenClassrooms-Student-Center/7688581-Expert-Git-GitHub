@@ -1,5 +1,8 @@
 # Code de conduite _Contributor Covenant_
 
+
+Fichier à lire sérieusement !
+
 ## Notre engagement
 
 En tant que membres, contributeurs et dirigeants, nous nous
