@@ -9,6 +9,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
+ * Un système d'exploitation
+ * Un éditeur de texte
+ * ...
 
 ```
 A définir
@@ -19,19 +22,15 @@ A définir
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
-
 ```
 A définir
 ```
-
-
 
 ## Executer les tests
 
 ```
 A définir : expliquer comment executer les tests
 ```
-
 
 ## Deployment
 
@@ -54,7 +53,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* O.C. OpenClassrooms
 
 ## License
 
