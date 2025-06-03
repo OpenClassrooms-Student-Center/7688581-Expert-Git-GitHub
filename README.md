@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **O.C & FrenchPolymath**
+* **O.C without FrenchPolymath**
 
 ## License
 
