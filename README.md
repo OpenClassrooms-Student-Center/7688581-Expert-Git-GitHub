@@ -8,12 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
-
-```
-A définir
-
-```
+Pour executer en local le projet Open Transport, il vous faudra faire un clone du dossier sur votre machine. Il n'y a pas d'autre pré-requis.
 
 ### Installation
 
@@ -33,7 +28,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +49,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O.C
 
 ## License
 
