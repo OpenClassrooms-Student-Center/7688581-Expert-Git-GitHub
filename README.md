@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Un serveur web
+(ex: Wamp)
 Un navigateur web
 
 ```
