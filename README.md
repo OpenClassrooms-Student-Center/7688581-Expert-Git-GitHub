@@ -53,7 +53,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* O.C. & A.B.
+* O.C., A.B & D.E..
 
 ## License
 
