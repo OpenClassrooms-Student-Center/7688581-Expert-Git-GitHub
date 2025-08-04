@@ -26,14 +26,18 @@ A définir
 
 
 
-## Executer les tests
+<<<<<<< HEAD
+## Exécuter les tests
+=======
+## Exécution les tests
+>>>>>>> 47454733127dd79744db16736bf3e3b634eb12af
 
 ```
 A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +58,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O.C
 
 ## License
 
