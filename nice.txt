@@ -1,0 +1,1 @@
+Tiens je sais ajouter dirrectement des messages dans un nouveau fichier .txt! Nicegit checkout -b feature !
