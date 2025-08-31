@@ -10,7 +10,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
-aucun pré requis est necessaire peut etre
+aucun pré requis est necessaire nicolas tchenio
 
 ### Installation
 
@@ -18,7 +18,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définirdddd
+A définirdddd tchenio
 ```
 
 
