@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Il n'y pas de pré-requis pour l'installation du projet Open Transport en local.
+Nous devons installer une serveur Nginx sur un container Docker Ubunut-20.04
 
 ```
 
