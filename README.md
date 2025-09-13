@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -46,7 +46,7 @@ A définir
 * HTML5/CSS3
 * [Boostrap](https://getbootstrap.com/)
 
-## Contribution
+## Contributionnagge :))
 
 Merci de lire les fichiers :
 * [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
@@ -54,7 +54,9 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* O.C.
+
+## Ceci est une modification et une autre
 
 ## License
 
