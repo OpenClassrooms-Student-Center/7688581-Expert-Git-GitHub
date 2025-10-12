@@ -1,0 +1,23 @@
+Le fichier .gitignore est un fichier de configuration utilisé dans Git pour indiquer aux systèmes de contrôle de version quels fichiers ou répertoires doivent être ignorés lors des validations ou des envois de modifications.
+ Il est généralement placé dans le répertoire racine d'un projet Git
+ et contient des motifs qui déterminent quels fichiers ou dossiers doivent être exclus du suivi.
+ Ces motifs peuvent correspondre à des fichiers spécifiques, des extensions, des répertoires entiers ou des chemins particuliers.
+
+Le fichier .gitignore permet d'éviter que des fichiers inutiles, tels que les fichiers temporaires, les fichiers de compilation, les fichiers de configuration locaux ou les fichiers de journalisation, ne soient ajoutés au dépôt.
+ Par exemple, on peut ignorer tous les fichiers avec l'extension .log en ajoutant *.log au fichier
+ , ou ignorer un répertoire entier en ajoutant logs/.
+ Pour ignorer un fichier spécifique, il suffit de l'ajouter par son nom, comme config.env.
+ Des caractères génériques comme * (correspondant à zéro ou plusieurs caractères) et ? (correspondant à un seul caractère) sont utilisés pour créer des motifs flexibles.
+
+Il est possible d'ajouter des commentaires dans le fichier en commençant une ligne par #
+ , ou d'utiliser des lignes vides pour améliorer la lisibilité.
+ Pour ignorer un fichier déjà suivi par Git, il est nécessaire de le supprimer de l'index avec la commande git rm --cached avant d'ajouter la règle d'ignorance.
+ Les règles d'ignorance sont appliquées selon une hiérarchie de priorité, avec les fichiers .gitignore situés dans les répertoires parents étant remplacés par ceux du répertoire courant.
+
+Le fichier .gitignore peut être partagé avec d'autres utilisateurs du projet en étant commité dans le dépôt.
+ Des modèles prédéfinis sont disponibles dans des référentiels publics comme github/gitignore
+ ou via des outils comme gitignore.io.
+ En outre, des règles spécifiques à un dépôt local peuvent être définies dans le fichier .git/info/exclude, qui n'est pas archivé.
+ Des règles globales pour l'ensemble des dépôts sur un système peuvent être configurées via la propriété core.excludesFile de Git.
+
+
