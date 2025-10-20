@@ -1,5 +1,10 @@
 # Open Transport
 
+Gros changement pour le test du conflit 
+Ceci n'est pas un conflit !!
+
+Test no3 En fait c'est une blague !!
+
 Application web pour covoiturage. 
 
 ## Getting Started
@@ -33,7 +38,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +59,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O. C.**
 
 ## License
 
