@@ -11,8 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
-
+Un LLM de type LLaMA.
 ```
 
 ### Installation
@@ -21,7 +20,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+Installez Numpy, PyTorch, Pandas et Scipy.
 ```
 
 
@@ -33,7 +32,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -53,8 +52,9 @@ Merci de lire les fichiers :
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
 ## Auteurs
+Lucas
 
-* **Non spécifié**
+* **O. C.**
 
 ## License
 
