@@ -11,7 +11,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Le fichier README.md doit être complété par la liste des prérequis nécessaires à l'installation du projet.
+Si aucun prérequis n'est nécessaire, le texte doit être adapté pour indiquer qu'il n'y a pas de prérequis.
+
 
 ```
 
@@ -33,7 +35,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deployement
 
 Voici les étapes à suivre pour déployer en production :
 
