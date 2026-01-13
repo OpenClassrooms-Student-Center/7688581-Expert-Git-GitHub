@@ -1,3 +1,5 @@
+
+
 # Open Transport
 
 Application web pour covoiturage. 
@@ -17,6 +19,7 @@ A définir
 
 ### Installation
 
+
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
@@ -33,7 +36,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement 
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -53,8 +56,7 @@ Merci de lire les fichiers :
 * [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
 
 ## Auteurs
-
-* **Non spécifié**
+  **O.C.**
 
 ## License
 
