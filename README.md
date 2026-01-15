@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Git
+Navigateur
 
 ```
 
@@ -21,7 +22,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+Tout logiciel permettant d'éditer du code
 ```
 
 
