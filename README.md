@@ -11,7 +11,31 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Git ≥ 2.x
+(pour cloner le dépôt)
+
+Node.js ≥ 18.x
+(inclut npm)
+👉 https://nodejs.org/
+
+Docker et Docker Compose (si le projet utilise des conteneurs)
+👉 https://www.docker.com/
+
+Base de données (selon configuration)
+
+PostgreSQL ≥ 14
+
+ou MySQL ≥ 8
+
+ou MongoDB ≥ 6
+
+Un éditeur de code
+
+Visual Studio Code (recommandé)
+
+Variables d’environnement
+
+Un fichier .env doit être configuré à la racine du projet (voir .env.example)
 
 ```
 
@@ -33,7 +57,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,8 +78,10 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O. C.**
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+Correction effectuée par <Cohibou>
