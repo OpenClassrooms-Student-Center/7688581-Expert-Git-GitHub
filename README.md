@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+L'auteur du porjet est O.C.
 
 ## License
 
