@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Félicitations, votre contribution est appréciée par la communauté d'Open Transport ! :-)"
+exit 0
