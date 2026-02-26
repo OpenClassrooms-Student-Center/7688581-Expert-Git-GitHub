@@ -1,0 +1,3 @@
+# Virtual environments
+.venv/
+.idea/
