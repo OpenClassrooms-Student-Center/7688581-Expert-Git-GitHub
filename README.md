@@ -59,3 +59,6 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+##Ezechiel
+Etudiant à efrei a le plaisir de participer a ce projet 
+
