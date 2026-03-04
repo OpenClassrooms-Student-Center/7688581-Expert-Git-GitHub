@@ -1,6 +1,9 @@
 # Open Transport
 
-Application web pour covoiturage. 
+HEAD
+ web pour covoiturage. merciiiii  lprgl2
+
+AZERTY. merciiiii  lprgl2
 
 ## Getting Started
 
@@ -9,7 +12,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
-
+Il n'y a pas de prérequis néccessaire
 ```
 A définir
 
@@ -23,7 +26,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 A définir
 ```
-
+ma version local
 
 
 ## Executer les tests
