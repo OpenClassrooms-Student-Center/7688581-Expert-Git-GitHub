@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Voici les pré-requis :
 
 ```
 
@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+Voici les étapes pour installer l'environnement :
 ```
 
 
@@ -29,7 +29,7 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+Pour lancer les tests, utiliser la commande :
 ```
 
 
@@ -38,7 +38,7 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+Pour déployer en production : Utiliser Docker ou GitHub Actions
 ```
 
 ## Technologies :
@@ -59,3 +59,5 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+CorrectionTP FizzBuzz pour l'issue 1
