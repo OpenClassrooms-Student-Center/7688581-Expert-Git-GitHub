@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Il n'y a pas de prerequis deja utiliser !!! Test 1 2 
 
 ```
 
@@ -29,7 +29,7 @@ A définir
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+A définir : expliquer comment executer les tests. C'est ici qu'il faut mettre les explications
 ```
 
 
