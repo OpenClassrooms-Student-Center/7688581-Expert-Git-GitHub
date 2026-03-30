@@ -21,7 +21,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 
 ```
-A définir
+en fait vous aurez besion d'intaller git sur votre poste
 ```
 
 
@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **O.C**
 
 ## License
 
