@@ -43,7 +43,7 @@ A définir
 
 ## Technologies :
 
-* HTML5/CSS33
+* HTML5/CSS378
 * [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
