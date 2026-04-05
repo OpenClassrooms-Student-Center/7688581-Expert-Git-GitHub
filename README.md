@@ -33,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -43,7 +43,7 @@ A définir
 
 ## Technologies :
 
-* HTML5/CSS3
+* HTML5/CSS378
 * [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+O.c
 
 ## License
 
