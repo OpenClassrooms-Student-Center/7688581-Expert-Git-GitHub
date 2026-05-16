@@ -1,7 +1,11 @@
 # Open Transport
 
 Application web pour covoiturage. 
-
+<<<<<<< HEAD
+omarBITEYEabc
+=======
+omarBITEYE1234
+>>>>>>> 05cc5b83c7185ab7b282ba0eb6d2119d69dddae0
 ## Getting Started
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
