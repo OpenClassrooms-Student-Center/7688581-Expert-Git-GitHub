@@ -18,6 +18,8 @@ Boire un soda
 
 Boire 1 café
 
+Manger une chocolatine
+
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
