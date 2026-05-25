@@ -15,6 +15,8 @@ A définir
 
 ```
 
+Boire 1 café
+
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
