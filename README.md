@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour covoiturage.
 
 ## Getting Started
 
@@ -19,12 +19,9 @@ A définir
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
-
 ```
 A définir
 ```
-
-
 
 ## Executer les tests
 
@@ -32,8 +29,7 @@ A définir
 A définir : expliquer comment executer les tests
 ```
 
-
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -43,18 +39,19 @@ A définir
 
 ## Technologies :
 
-* HTML5/CSS3
-* [Boostrap](https://getbootstrap.com/)
+- HTML5/CSS3
+- [Boostrap](https://getbootstrap.com/)
 
 ## Contribution
 
 Merci de lire les fichiers :
-* [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
-* [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md) 
+
+- [CONTRIBUTING.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
+- [CODE_OF_CONDUCT.md](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/CONTRIBUTING.md)
 
 ## Auteurs
 
-* **Non spécifié**
+- **Non spécifié**
 
 ## License
 
