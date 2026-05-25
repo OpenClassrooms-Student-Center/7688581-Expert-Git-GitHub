@@ -14,9 +14,12 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 A définir
 
 ```
+
 Boire un soda
 
 Boire 1 café
+
+Manger un pain au chocolat
 
 ### Installation
 
