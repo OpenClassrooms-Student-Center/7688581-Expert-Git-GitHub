@@ -19,6 +19,8 @@ Boire un soda
 
 Boire 1 café
 
+Manger une chocolatine
+
 Manger un pain au chocolat
 
 ### Installation
