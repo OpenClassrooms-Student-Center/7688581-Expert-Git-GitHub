@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-B.I
+B.I !!!
 
 ## License
 
