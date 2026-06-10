@@ -8,12 +8,15 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Prérequis : Python installé en local. 
+
 
 ```
-A définir
-
+a voir avec l'équipe
+Prérequis : Git installé sur la machine.
 ```
+
+
 
 ### Installation
 
@@ -33,7 +36,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -54,7 +57,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* O.C.
 
 ## License
 
