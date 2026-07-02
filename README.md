@@ -8,7 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Il faut installer plein de choses
+Il faut installer plein de choses et bla bla bla
 
 ### Installation
 
