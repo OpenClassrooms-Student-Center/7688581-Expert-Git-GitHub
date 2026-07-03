@@ -32,8 +32,8 @@ A définir
 A définir : expliquer comment executer les tests
 ```
 
-
-## Deployment
+blobloblabla
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
