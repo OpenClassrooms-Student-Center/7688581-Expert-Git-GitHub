@@ -8,7 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Aucun
+Il n'y a pas de pré-requis pour ce projet
 
 ```
 A définir
