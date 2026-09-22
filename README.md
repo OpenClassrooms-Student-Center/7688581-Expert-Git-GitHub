@@ -1,5 +1,5 @@
 # Open Transport
-
+modifié
 Application web pour covoiturage. 
 
 ## Getting Started
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* **Luana Cunha**
 
 ## License
 
