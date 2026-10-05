@@ -2,7 +2,7 @@
 
 Application web pour covoiturage. 
 
-## Getting Started
+## Pour démarrer
 
 Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Un serveur web comme Nginx
 
 ```
 
@@ -20,25 +20,21 @@ A définir
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
-```
-A définir
-```
-
-
-
 ## Executer les tests
 
 ```
-A définir : expliquer comment executer les tests
+- Etape 1 : ...  
+- Etape 2 : ...
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+- Etape 1 : ...  
+- Etape 2 : ...
 ```
 
 ## Technologies :
@@ -54,8 +50,12 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+Pascal
 
 ## License
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/LICENSE) pour plus de détails
+
+## Ajout du 05102026
+
+Penser à mettre VSCode en mode LF et UTF8 et pas UTF-16 sinon tous les commits ne passent pas 
