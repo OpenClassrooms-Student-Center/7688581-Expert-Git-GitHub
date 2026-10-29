@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web pour covoiturage. 2eme test
 
 ## Getting Started
 
@@ -9,10 +9,10 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
+un editeur de texte
 
 ```
-A définir
-
+et une IA
 ```
 
 ### Installation
@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Non spécifié**
+* A.C
 
 ## License
 
