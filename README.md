@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 navigo web firefox par ex
+ajout retarde sur main
 
 ```
 
