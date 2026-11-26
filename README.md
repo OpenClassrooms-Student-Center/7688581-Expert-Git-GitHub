@@ -2,7 +2,7 @@
 
 # Je fais une modification en local
 
-# modification à l'arrache mais depuis le repos
+# modification à l'arrache bis
 
 Application web pour covoiturage. 
 
